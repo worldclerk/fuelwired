@@ -1,0 +1,69 @@
+name: Daily News Update
+
+# ──────────────────────────────────────────────────────────────
+# Triggers
+# ──────────────────────────────────────────────────────────────
+on:
+  schedule:
+    # 7:00 AM UTC every day
+    - cron: "0 7 * * *"
+  # Allow manual runs from the Actions tab
+  workflow_dispatch:
+
+# ──────────────────────────────────────────────────────────────
+# Permissions — needed to push the commit back to the repo
+# ──────────────────────────────────────────────────────────────
+permissions:
+  contents: write
+
+# ──────────────────────────────────────────────────────────────
+# Job
+# ──────────────────────────────────────────────────────────────
+jobs:
+  update-news:
+    name: Fetch & Publish News
+    runs-on: ubuntu-latest
+
+    steps:
+      # 1. Check out the full repo history (needed for git push)
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      # 2. Set up Python (stdlib-only script; no pip installs required)
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      # 3. Run the news updater
+      - name: Run update_news.py
+        run: python update_news.py
+        # The script exits 0 on success, non-zero on hard failure.
+        # Feed-level errors are handled gracefully inside the script.
+
+      # 4. Commit and push only if there are actual changes
+      - name: Commit changes (if any)
+        run: |
+          git config --local user.email "bot@fuelwired.com"
+          git config --local user.name  "FuelWired Bot"
+
+          # Stage every changed/new file
+          git add -A
+
+          # Check whether there is anything to commit
+          if git diff --cached --quiet; then
+            echo "No changes to commit — site is already up to date."
+            exit 0
+          fi
+
+          TIMESTAMP=$(date -u +"%Y-%m-%d %H:%M UTC")
+          git commit -m "chore: daily news update [${TIMESTAMP}]"
+
+      # 5. Push back to the default branch using the built-in GITHUB_TOKEN
+      - name: Push changes
+        uses: ad-m/github-push-action@v0.8.0
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: ${{ github.ref_name }}
