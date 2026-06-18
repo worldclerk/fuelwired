@@ -893,6 +893,24 @@ def regenerate_index(articles: list) -> None:
 
     updated_ts = datetime.datetime.utcnow().strftime("%b %d, %Y · %H:%M UTC")
 
+    # Build category sections (for nav anchor links)
+    def _cat_section(cat_name: str, section_id: str, cat_all: list) -> str:
+        cat_arts = [a for a in cat_all if a.get('category', '').lower() == cat_name.lower()][:6]
+        if not cat_arts:
+            return ''
+        cards = ''.join(_article_card_html(a, delay_classes[i % 3]) for i, a in enumerate(cat_arts))
+        label = cat_name.title()
+        return f'''<section id="{section_id}" aria-labelledby="{section_id}-title" style="margin-top:40px;">
+          <div class="section-heading">
+            <h2 class="section-title" id="{section_id}-title">{label}</h2>
+          </div>
+          <div class="news-grid">{cards}</div>
+        </section>'''
+
+    upstream_section   = _cat_section('Upstream',   'upstream',   all_articles)
+    downstream_section = _cat_section('Downstream', 'downstream', all_articles)
+    lng_section        = _cat_section('LNG',        'lng',        all_articles)
+
     # Price rows for sidebar
     price_rows_html = _price_rows_html()
 
@@ -1058,6 +1076,9 @@ def regenerate_index(articles: list) -> None:
           <div class="secondary-grid">{secondary_html}</div>
         </section>''' if secondary_html else ''}
 
+      {upstream_section}
+      {downstream_section}
+      {lng_section}
       </div><!-- /main-column -->
 
       <!-- Sidebar -->
