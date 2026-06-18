@@ -37,9 +37,9 @@ RSS_FEEDS = [
         "default_category": "Markets",
     },
     {
-        "name": "EIA Press Releases",
-        "url":  "https://www.eia.gov/rss/press_releases.xml",
-        "default_category": "EIA Report",
+        "name": "Offshore Technology",
+        "url":  "https://www.offshore-technology.com/feed/",
+        "default_category": "Upstream",
     },
     {
         "name": "Rigzone Latest",
