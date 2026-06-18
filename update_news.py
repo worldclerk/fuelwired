@@ -907,9 +907,9 @@ def regenerate_index(articles: list) -> None:
           <div class="news-grid">{cards}</div>
         </section>'''
 
-    upstream_section   = _cat_section('Upstream',   'upstream',   all_articles)
-    downstream_section = _cat_section('Downstream', 'downstream', all_articles)
-    lng_section        = _cat_section('LNG',        'lng',        all_articles)
+    upstream_section   = _cat_section('Upstream',   'upstream',   articles)
+    downstream_section = _cat_section('Downstream', 'downstream', articles)
+    lng_section        = _cat_section('LNG',        'lng',        articles)
 
     # Price rows for sidebar
     price_rows_html = _price_rows_html()
