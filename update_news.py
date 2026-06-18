@@ -364,9 +364,282 @@ def _markets_grid_html() -> str:
 # ARTICLE PAGE GENERATOR
 # ──────────────────────────────────────────────────────────────────────────────
 
-def generate_article_page(article: dict) -> None:
+# ──────────────────────────────────────────────────────────────────────────────
+# SEO — ARTICLE BODY EXPANSION
+# ──────────────────────────────────────────────────────────────────────────────
+
+_CATEGORY_CONTEXT = {
+    "markets": [
+        "Global crude oil markets remain sensitive to a combination of macroeconomic signals, OPEC+ production policy, and geopolitical developments across key producing regions. Brent crude and WTI serve as the primary price benchmarks, with spread movements reflecting regional supply-demand imbalances and refinery demand shifts.",
+        "Energy traders and analysts closely monitor inventory data from the U.S. Energy Information Administration (EIA), which releases weekly petroleum status reports that frequently move markets. Rising inventories typically signal demand weakness or oversupply, while draws support price recovery.",
+    ],
+    "upstream": [
+        "Upstream activity across major producing basins continues to reflect the balance between capital discipline and the operational pressures of sustaining output. U.S. shale plays — particularly the Permian Basin — remain the swing producer of last resort in global markets, with rig count data serving as a leading indicator for future production volumes.",
+        "Exploration and production companies are increasingly focusing on high-return, low-breakeven assets, prioritizing inventory depth in proven basins over frontier exploration spending as investor expectations for free cash flow generation remain elevated.",
+    ],
+    "downstream": [
+        "Downstream margins — or crack spreads — have experienced considerable volatility as refinery operators navigate feedstock cost fluctuations, product demand seasonality, and evolving fuel specifications. Gasoline and distillate margins serve as key profitability levers for integrated refiners.",
+        "Refinery utilization rates, particularly in the U.S. Gulf Coast and Northwest European hubs, directly influence product availability and pricing. Unplanned outages, scheduled turnarounds, and weather-related disruptions are recurring factors that tighten regional product supply.",
+    ],
+    "lng": [
+        "The global LNG market has undergone a structural transformation in recent years, with U.S. exports reshaping trade flows and providing consuming nations with greater supply optionality. European buyers have accelerated long-term LNG contracting following the disruption of Russian pipeline gas supplies.",
+        "New LNG liquefaction capacity — from the U.S. Gulf Coast, Qatar's North Field expansion, and Australian projects — is expected to add significant supply volumes through the late 2020s, with implications for long-term contract pricing and spot market dynamics.",
+    ],
+    "eia report": [
+        "The U.S. Energy Information Administration (EIA) is the statistical and analytical arm of the U.S. Department of Energy, providing authoritative data on domestic and international energy markets. Its weekly petroleum status reports and monthly outlooks are benchmark references for industry participants globally.",
+        "EIA inventory reports covering crude oil, gasoline, and distillates are released each Wednesday and routinely influence intraday price movements, reflecting actual physical market balances at key U.S. storage and refining hubs.",
+    ],
+    "policy": [
+        "Energy policy and regulatory developments are increasingly intertwined with geopolitical dynamics, trade relationships, and climate commitments. Sanctions regimes, export licensing requirements, and environmental regulations all exert material influence on production economics and global trade flows.",
+        "International bodies including the IEA, OPEC, and the WTO play significant roles in shaping the framework within which energy markets operate, through data publication, coordination mechanisms, and shared standards for energy security.",
+    ],
+    "technology": [
+        "Technological innovation continues to reshape upstream, midstream, and downstream operations across the oil and gas industry. Digital oilfield technologies — including advanced sensors, machine learning-driven production optimization, and predictive maintenance systems — are delivering measurable efficiency gains.",
+        "Artificial intelligence and data analytics are being deployed across the industry value chain to optimize drilling programs, improve reservoir characterization, reduce unplanned downtime, and enhance supply chain management.",
+    ],
+}
+
+_WATCH_TEXT = {
+    "markets":    "Analysts and traders will be watching upcoming EIA inventory reports, OPEC+ output decisions, and macroeconomic indicators — particularly U.S. Federal Reserve policy signals and China demand data — for directional cues on crude prices in the near term.",
+    "upstream":   "Market participants will be monitoring rig count trends, quarterly earnings guidance from major E&P operators, and any production adjustment announcements from OPEC+ members for signals on near-term supply trajectory.",
+    "downstream": "Key metrics to watch include refinery utilization rates, weekly distillate inventory builds or draws, and crack spread movements, which serve as real-time indicators of refining profitability across major processing hubs.",
+    "lng":        "Stakeholders will be tracking spot LNG cargo pricing in Asian and European markets, liquefaction plant utilization rates, and upcoming long-term supply contract negotiations as global LNG trade flows continue to evolve.",
+    "eia report": "Energy market participants will be parsing the full EIA data release for inventory changes, production rate updates, and implied demand figures that could shift near-term price expectations across petroleum markets.",
+    "policy":     "Observers should watch for regulatory agency responses, potential legal challenges, and downstream industry reactions as the evolving policy landscape continues to affect investment planning and operational compliance.",
+    "technology": "The industry will be watching adoption rates, pilot program results, and capital allocation trends as companies evaluate the return on investment from emerging technology deployments across their operations.",
+}
+
+_CONTEXT_HEADINGS = {
+    "markets":    "Market Context",
+    "upstream":   "Industry Background",
+    "downstream": "Refining & Products Context",
+    "lng":        "LNG Market Background",
+    "eia report": "About the EIA Data",
+    "policy":     "Policy & Regulatory Background",
+    "technology": "Technology Context",
+}
+
+
+def expand_article_body(article: dict) -> str:
+    """Generate an expanded article body (~350-500 words) with structured sections."""
+    description = article.get("description", "")
+    category    = article.get("category", "Markets").lower()
+    parts       = []
+
+    # Lead paragraph(s) from full RSS description
+    if description:
+        sentences = re.split(r"(?<=[.!?])\s+", description.strip())
+        chunk1    = sentences[:min(4, len(sentences))]
+        parts.append(f'<p class="article-lead">{html.escape(" ".join(chunk1))}</p>')
+        if len(sentences) > 4:
+            parts.append(f'<p>{html.escape(" ".join(sentences[4:]))}</p>')
+
+    # Category context section
+    heading   = _CONTEXT_HEADINGS.get(category, "Industry Context")
+    ctx_paras = _CATEGORY_CONTEXT.get(category, _CATEGORY_CONTEXT["markets"])
+    parts.append(f"<h2>{html.escape(heading)}</h2>")
+    for para in ctx_paras:
+        parts.append(f"<p>{html.escape(para)}</p>")
+
+    # What to Watch
+    watch = _WATCH_TEXT.get(category, _WATCH_TEXT["markets"])
+    parts.append("<h2>What to Watch</h2>")
+    parts.append(f"<p>{html.escape(watch)}</p>")
+
+    return "\n".join(parts)
+
+
+def get_related_articles(article: dict, all_articles: list, n: int = 3) -> list:
+    """Return up to n related articles by category + keyword overlap."""
+    current_id    = article["id"]
+    current_words = set(re.findall(r"\w+", (article["title"] + " " + article.get("description", "")).lower()))
+    scored        = []
+    for other in all_articles:
+        if other["id"] == current_id:
+            continue
+        score  = 3 if other["category"] == article["category"] else 0
+        score += len(current_words & set(re.findall(r"\w+", other["title"].lower())))
+        scored.append((score, other))
+    scored.sort(key=lambda x: x[0], reverse=True)
+    return [item[1] for item in scored[:n]]
+
+
+def _related_html(related: list) -> str:
+    """Build HTML for the Related Articles section."""
+    if not related:
+        return ""
+    items = []
+    for a in related:
+        cat_cls    = _cat_class(a["category"])
+        safe_title = html.escape(a["title"])
+        safe_cat   = html.escape(a["category"])
+        safe_date  = html.escape(a["date_display"])
+        items.append(
+            f'<a href="{a["filename"]}" style="display:block;background:var(--bg-secondary);'
+            f'border:1px solid var(--border);border-radius:8px;padding:14px 16px;'
+            f'margin-bottom:10px;text-decoration:none;">'
+            f'<span class="card-category {cat_cls}" style="font-size:0.62rem;margin-bottom:6px;display:inline-block;">{safe_cat}</span>'
+            f'<div style="color:var(--text-primary);font-weight:600;font-size:0.9rem;line-height:1.4;margin-bottom:4px;">{safe_title}</div>'
+            f'<div style="color:var(--text-muted);font-size:0.78rem;">{safe_date}</div>'
+            f'</a>'
+        )
+    return (
+        '\n      <section style="margin-top:40px;" aria-label="Related articles">'
+        '\n        <h2 style="font-size:1.15rem;margin-bottom:16px;">Related Articles</h2>'
+        + "".join(f"\n        {item}" for item in items)
+        + "\n      </section>"
+    )
+
+
+# ──────────────────────────────────────────────────────────────────────────────
+# SEO — SITEMAP / ROBOTS / FEED / ABOUT
+# ──────────────────────────────────────────────────────────────────────────────
+
+def generate_sitemap(articles: list) -> None:
+    """Generate sitemap.xml."""
+    today = datetime.datetime.utcnow().strftime("%Y-%m-%d")
+    urls  = [
+        f'  <url><loc>https://fuelwired.com/</loc><lastmod>{today}</lastmod><changefreq>daily</changefreq><priority>1.0</priority></url>',
+        f'  <url><loc>https://fuelwired.com/about.html</loc><lastmod>{today}</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>',
+        f'  <url><loc>https://fuelwired.com/feed.xml</loc><lastmod>{today}</lastmod><changefreq>daily</changefreq><priority>0.3</priority></url>',
+    ]
+    for article in articles:
+        pub = article.get("pub_date", today)[:10]
+        urls.append(f'  <url><loc>https://fuelwired.com/{article["filename"]}</loc><lastmod>{pub}</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>')
+    content = (
+        '<?xml version="1.0" encoding="UTF-8"?>\n'
+        '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n'
+        + "\n".join(urls) + "\n</urlset>\n"
+    )
+    with open(os.path.join(OUTPUT_DIR, "sitemap.xml"), "w", encoding="utf-8") as f:
+        f.write(content)
+    print(f"  \u2713 Generated sitemap.xml ({len(urls)} URLs)")
+
+
+def generate_robots() -> None:
+    """Generate robots.txt."""
+    with open(os.path.join(OUTPUT_DIR, "robots.txt"), "w", encoding="utf-8") as f:
+        f.write("User-agent: *\nAllow: /\n\nSitemap: https://fuelwired.com/sitemap.xml\n")
+    print("  \u2713 Generated robots.txt")
+
+
+def generate_feed(articles: list) -> None:
+    """Generate RSS feed.xml."""
+    now_rfc = datetime.datetime.utcnow().strftime("%a, %d %b %Y %H:%M:%S +0000")
+    items   = []
+    for article in articles[:20]:
+        try:
+            dt      = datetime.datetime.fromisoformat(article.get("pub_date", ""))
+            pub_rfc = dt.strftime("%a, %d %b %Y %H:%M:%S +0000")
+        except Exception:
+            pub_rfc = now_rfc
+        items.append(
+            f"    <item>\n"
+            f"      <title><![CDATA[{article['title']}]]></title>\n"
+            f"      <link>https://fuelwired.com/{article['filename']}</link>\n"
+            f"      <guid isPermaLink=\"true\">https://fuelwired.com/{article['filename']}</guid>\n"
+            f"      <pubDate>{pub_rfc}</pubDate>\n"
+            f"      <category><![CDATA[{article['category']}]]></category>\n"
+            f"      <description><![CDATA[{article.get('excerpt', '')}]]></description>\n"
+            f"    </item>"
+        )
+    feed = (
+        '<?xml version="1.0" encoding="UTF-8"?>\n'
+        '<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">\n'
+        '  <channel>\n'
+        '    <title>FuelWired \u2014 Oil &amp; Gas Intelligence</title>\n'
+        '    <link>https://fuelwired.com/</link>\n'
+        '    <description>Real-time oil and gas industry news, energy market analysis, and LNG market intelligence.</description>\n'
+        '    <language>en-us</language>\n'
+        f'    <lastBuildDate>{now_rfc}</lastBuildDate>\n'
+        '    <atom:link href="https://fuelwired.com/feed.xml" rel="self" type="application/rss+xml"/>\n'
+        + "\n".join(items) + "\n  </channel>\n</rss>\n"
+    )
+    with open(os.path.join(OUTPUT_DIR, "feed.xml"), "w", encoding="utf-8") as f:
+        f.write(feed)
+    print(f"  \u2713 Generated feed.xml ({len(items)} items)")
+
+
+def generate_about() -> None:
+    """Generate about.html E-E-A-T page."""
+    year = datetime.datetime.utcnow().year
+    content = (
+        '<!DOCTYPE html>\n<html lang="en">\n<head>\n'
+        '  <meta charset="UTF-8" />\n'
+        '  <meta name="viewport" content="width=device-width, initial-scale=1.0" />\n'
+        '  <title>About FuelWired \u2014 Oil &amp; Gas Intelligence</title>\n'
+        '  <meta name="description" content="FuelWired is an independent oil and gas news publication '
+        'covering energy markets, upstream, downstream, and LNG developments worldwide." />\n'
+        '  <link rel="canonical" href="https://fuelwired.com/about.html" />\n'
+        '  <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,<svg xmlns=\'http://www.w3.org/2000/svg\' viewBox=\'0 0 32 32\'><rect width=\'32\' height=\'32\' rx=\'6\' fill=\'%230d1117\'/><polygon points=\'18,4 10,18 16,18 14,28 22,14 16,14\' fill=\'%23f0a500\'/></svg>" />\n'
+        '  <link rel="stylesheet" href="style.css" />\n'
+        '  <script type="application/ld+json">\n'
+        '  {"@context":"https://schema.org","@type":"AboutPage","name":"About FuelWired",'
+        '"url":"https://fuelwired.com/about.html","publisher":{"@type":"NewsMediaOrganization",'
+        '"name":"FuelWired","url":"https://fuelwired.com"}}\n'
+        '  </script>\n'
+        '</head>\n<body>\n'
+        '<header class="site-header" role="banner">\n'
+        '  <div class="container"><div class="header-inner">\n'
+        '  <a class="logo" href="/" aria-label="FuelWired Home">\n'
+        '    <div class="logo-icon"><svg viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg">\n'
+        '      <rect width="40" height="40" rx="8" fill="#1c2333"/>\n'
+        '      <polygon points="22,5 12,22 20,22 18,36 28,18 20,18" fill="url(#bolt-about)"/>\n'
+        '      <defs><linearGradient id="bolt-about" x1="12" y1="5" x2="28" y2="36" gradientUnits="userSpaceOnUse">\n'
+        '        <stop offset="0%" stop-color="#fbbf24"/><stop offset="100%" stop-color="#d97706"/>\n'
+        '      </linearGradient></defs></svg></div>\n'
+        '    <div><div class="logo-text">FuelWired</div><div class="logo-tagline">Oil &amp; Gas Intelligence</div></div>\n'
+        '  </a>\n'
+        '  <nav class="main-nav" role="navigation">\n'
+        '    <a class="nav-link" href="/">Home</a>\n'
+        '    <a class="nav-link" href="/#markets">Markets</a>\n'
+        '    <a class="nav-link" href="/#upstream">Upstream</a>\n'
+        '    <a class="nav-link" href="/#downstream">Downstream</a>\n'
+        '    <a class="nav-link" href="/#lng">LNG</a>\n'
+        '    <a class="nav-link active" href="about.html">About</a>\n'
+        '  </nav>\n'
+        '  </div></div>\n</header>\n'
+        '<main class="page-main" style="padding-top:60px;">\n'
+        '  <div class="container" style="max-width:820px;">\n'
+        '    <h1 style="font-size:2rem;margin-bottom:24px;">About FuelWired</h1>\n'
+        '    <p style="font-size:1.1rem;line-height:1.8;margin-bottom:24px;">FuelWired is an independent oil and '
+        'gas industry news publication dedicated to delivering timely, accurate, and accessible coverage of global '
+        'energy markets. We cover upstream exploration and production, downstream refining, LNG trade, energy '
+        'policy, and market-moving price developments.</p>\n'
+        '    <h2 style="margin-top:40px;margin-bottom:16px;">Our Mission</h2>\n'
+        '    <p>Our mission is to make oil and gas industry intelligence accessible to energy professionals, '
+        'investors, policymakers, and curious readers worldwide. We aggregate and contextualize the most important '
+        'developments in energy markets each day, providing the background and context needed to understand their significance.</p>\n'
+        '    <h2 style="margin-top:40px;margin-bottom:16px;">What We Cover</h2>\n'
+        '    <ul style="line-height:2.2;">\n'
+        '      <li><strong>Crude Oil Markets</strong> \u2014 Brent, WTI, OPEC basket pricing and market dynamics</li>\n'
+        '      <li><strong>Upstream</strong> \u2014 Exploration, drilling, production, rig counts</li>\n'
+        '      <li><strong>Downstream</strong> \u2014 Refining margins, fuel prices, product markets</li>\n'
+        '      <li><strong>LNG</strong> \u2014 Liquefied natural gas trade flows, pricing, and infrastructure</li>\n'
+        '      <li><strong>Energy Policy</strong> \u2014 Regulatory developments, government programs, international agreements</li>\n'
+        '      <li><strong>EIA Reports</strong> \u2014 U.S. Energy Information Administration data and analysis</li>\n'
+        '    </ul>\n'
+        '    <h2 style="margin-top:40px;margin-bottom:16px;">Sources &amp; Editorial Standards</h2>\n'
+        '    <p>FuelWired aggregates news from authoritative primary sources including the U.S. Energy Information '
+        'Administration (EIA), OilPrice.com, and Rigzone. All source articles are linked for full transparency and attribution.</p>\n'
+        '    <h2 style="margin-top:40px;margin-bottom:16px;">Updates</h2>\n'
+        '    <p>FuelWired is updated daily with the latest news from global oil and gas markets. '
+        'Our automated news system fetches fresh stories every morning to ensure you always have access '
+        'to the most current energy industry developments.</p>\n'
+        f'    <p style="margin-top:40px;color:var(--text-muted);font-size:0.9rem;">&copy; {year} FuelWired. All rights reserved. | <a href="/">Return to Homepage</a></p>\n'
+        '  </div>\n</main>\n'
+        f'<footer class="site-footer" role="contentinfo"><div class="container"><div class="footer-bottom" style="border-top:0;padding-top:0;">'
+        f'<span>&copy; {year} FuelWired.</span><div class="footer-bottom-links"><a href="/">Home</a><a href="about.html">About</a></div></div></div></footer>\n'
+        '</body>\n</html>\n'
+    )
+    with open(os.path.join(OUTPUT_DIR, "about.html"), "w", encoding="utf-8") as f:
+        f.write(content)
+    print("  \u2713 Generated about.html")
+
+
+def generate_article_page(article: dict, all_articles: list = None) -> None:
     """Write a standalone article-*.html page for a single article."""
-    cat_cls  = _cat_class(article["category"])
+    cat_cls      = _cat_class(article["category"])
     safe_title   = html.escape(article["title"])
     safe_excerpt = html.escape(article["excerpt"])
     safe_date    = html.escape(article["date_display"])
@@ -375,21 +648,13 @@ def generate_article_page(article: dict) -> None:
     safe_link    = html.escape(article["link"])
     read_min     = article["read_min"]
 
-    # Build body paragraphs from description; split on newlines or sentences
-    body_text = article.get("description", "")
-    # Attempt to create multi-paragraph content
-    paragraphs = [p.strip() for p in re.split(r"\n{2,}|\. {2}", body_text) if p.strip()]
-    if len(paragraphs) <= 1 and ". " in body_text:
-        sentences = re.split(r"(?<=[.!?])\s+", body_text)
-        chunk_size = max(3, len(sentences) // 3)
-        paragraphs = [
-            " ".join(sentences[i:i+chunk_size])
-            for i in range(0, len(sentences), chunk_size)
-        ]
-    if not paragraphs:
-        paragraphs = [body_text]
+    body_html    = expand_article_body(article)
+    related_html = _related_html(get_related_articles(article, all_articles or [], n=3))
 
-    body_html = "\n".join(f"<p>{html.escape(p)}</p>" for p in paragraphs if p)
+    # Pre-compute values that contain quotes so they're safe to embed in f-strings
+    _headline    = article['title'].replace('"', "'")[:200]
+    _desc_json   = article.get('excerpt', '')[:155].replace('"', "'")
+    _title_60    = article['title'][:60].replace('"', "'")
 
     content = f"""<!DOCTYPE html>
 <html lang="en">
@@ -410,14 +675,27 @@ def generate_article_page(article: dict) -> None:
   {{
     "@context": "https://schema.org",
     "@type": "NewsArticle",
-    "headline": "{article['title'].replace('"', '\\"')}",
+    "headline": "{_headline}",
     "datePublished": "{article['pub_date']}",
+    "description": "{_desc_json}",
     "publisher": {{
-      "@type": "Organization",
+      "@type": "NewsMediaOrganization",
       "name": "FuelWired",
       "url": "https://fuelwired.com"
     }},
-    "url": "https://fuelwired.com/{article['filename']}"
+    "url": "https://fuelwired.com/{article['filename']}",
+    "mainEntityOfPage": "https://fuelwired.com/{article['filename']}"
+  }}
+  </script>
+  <script type="application/ld+json">
+  {{
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {{"@type": "ListItem", "position": 1, "name": "Home", "item": "https://fuelwired.com/"}},
+      {{"@type": "ListItem", "position": 2, "name": "{safe_cat}", "item": "https://fuelwired.com/"}},
+      {{"@type": "ListItem", "position": 3, "name": "{_title_60}", "item": "https://fuelwired.com/{article['filename']}"}}
+    ]
   }}
   </script>
 </head>
@@ -496,6 +774,7 @@ def generate_article_page(article: dict) -> None:
           <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/><polyline points="15 3 21 3 21 9"/><line x1="10" y1="14" x2="21" y2="3"/></svg>
           Read original article at {safe_source}
         </a>
+        {related_html}
       </article>
 
       <!-- Sidebar -->
@@ -991,19 +1270,25 @@ def main() -> None:
         print("\n  ⚠ No articles available. Exiting without changes.")
         sys.exit(0)
 
-    print("\n[3/4] Generating article pages…")
+    print("\n[3/5] Generating article pages…")
     generated_count = 0
-    for article in all_articles[:MAX_ARTICLES * 3]:  # Generate pages for recent articles
+    for article in all_articles[:MAX_ARTICLES * 3]:
         try:
-            generate_article_page(article)
+            generate_article_page(article, all_articles)
             generated_count += 1
         except Exception as e:
             print(f"  ⚠ Failed to generate page for '{article.get('title','?')[:50]}': {e}")
     print(f"  ✓ Generated {generated_count} article pages")
 
-    print("\n[4/4] Regenerating index.html and saving manifest…")
+    print("\n[4/5] Regenerating index.html and saving manifest…")
     regenerate_index(all_articles)
     save_articles(all_articles)
+
+    print("\n[5/5] Generating SEO files…")
+    generate_sitemap(all_articles)
+    generate_robots()
+    generate_feed(all_articles)
+    generate_about()
 
     elapsed = time.time() - start
     print(f"\n✅ Update complete in {elapsed:.1f}s")
