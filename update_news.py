@@ -33,7 +33,7 @@ FETCH_TIMEOUT = 15               # Seconds before giving up on a feed
 RSS_FEEDS = [
     {
         "name": "OilPrice.com",
-        "url":  "https://feeds.feedburner.com/oilprice/dQgE",
+        "url":  "https://oilprice.com/rss/main",
         "default_category": "Markets",
     },
     {
@@ -593,9 +593,9 @@ def generate_about() -> None:
         '  <nav class="main-nav" role="navigation">\n'
         '    <a class="nav-link" href="/">Home</a>\n'
         '    <a class="nav-link" href="/#markets">Markets</a>\n'
-        '    <a class="nav-link" href="/#upstream">Upstream</a>\n'
-        '    <a class="nav-link" href="/#downstream">Downstream</a>\n'
-        '    <a class="nav-link" href="/#lng">LNG</a>\n'
+        '    <a class="nav-link" href="/#latest">Upstream</a>\n'
+        '    <a class="nav-link" href="/#latest">Downstream</a>\n'
+        '    <a class="nav-link" href="/#latest">LNG</a>\n'
         '    <a class="nav-link active" href="about.html">About</a>\n'
         '  </nav>\n'
         '  </div></div>\n</header>\n'
@@ -728,9 +728,9 @@ def generate_article_page(article: dict, all_articles: list = None) -> None:
       <nav class="main-nav" role="navigation" aria-label="Main navigation">
         <a class="nav-link" href="/">Home</a>
         <a class="nav-link" href="/#markets">Markets</a>
-        <a class="nav-link" href="/#upstream">Upstream</a>
-        <a class="nav-link" href="/#downstream">Downstream</a>
-        <a class="nav-link" href="/#lng">LNG</a>
+        <a class="nav-link" href="/#latest">Upstream</a>
+        <a class="nav-link" href="/#latest">Downstream</a>
+        <a class="nav-link" href="/#latest">LNG</a>
         <a class="nav-link" href="about.html">About</a>
       </nav>
       <div class="header-actions">
@@ -969,9 +969,9 @@ def regenerate_index(articles: list) -> None:
       <nav class="main-nav" role="navigation" aria-label="Main navigation">
         <a class="nav-link active" href="/">Home</a>
         <a class="nav-link" href="#markets">Markets</a>
-        <a class="nav-link" href="#upstream">Upstream</a>
-        <a class="nav-link" href="#downstream">Downstream</a>
-        <a class="nav-link" href="#lng">LNG</a>
+        <a class="nav-link" href="#latest" onclick="window.fwFilterNav('upstream');return false;">Upstream</a>
+        <a class="nav-link" href="#latest" onclick="window.fwFilterNav('downstream');return false;">Downstream</a>
+        <a class="nav-link" href="#latest" onclick="window.fwFilterNav('lng');return false;">LNG</a>
         <a class="nav-link" href="about.html">About</a>
       </nav>
       <div class="header-actions">
