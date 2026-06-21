@@ -1,9 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://fuelwired.com/</loc><lastmod>2026-06-20</lastmod><changefreq>daily</changefreq><priority>1.0</priority></url>
-  <url><loc>https://fuelwired.com/about.html</loc><lastmod>2026-06-20</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
-  <url><loc>https://fuelwired.com/feed.xml</loc><lastmod>2026-06-20</lastmod><changefreq>daily</changefreq><priority>0.3</priority></url>
+  <url><loc>https://fuelwired.com/</loc><lastmod>2026-06-21</lastmod><changefreq>daily</changefreq><priority>1.0</priority></url>
+  <url><loc>https://fuelwired.com/about.html</loc><lastmod>2026-06-21</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
+  <url><loc>https://fuelwired.com/feed.xml</loc><lastmod>2026-06-21</lastmod><changefreq>daily</changefreq><priority>0.3</priority></url>
+  <url><loc>https://fuelwired.com/article-braskem-presses-on-with-petrochemicals-growth-plans.html</loc><lastmod>2026-06-21</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
+  <url><loc>https://fuelwired.com/article-g7-takes-aim-at-chinas-grip-on-critical-minerals.html</loc><lastmod>2026-06-20</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
+  <url><loc>https://fuelwired.com/article-energy-security-not-climate-goals-is-now-driving-the-clean-power-boom.html</loc><lastmod>2026-06-20</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
+  <url><loc>https://fuelwired.com/article-iraq-is-keeping-its-syria-oil-routeeven-if-hormuz-reopens.html</loc><lastmod>2026-06-20</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
+  <url><loc>https://fuelwired.com/article-china-is-taking-its-ai-boom-under-the-sea.html</loc><lastmod>2026-06-20</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
+  <url><loc>https://fuelwired.com/article-why-small-modular-reactors-are-becoming-a-national-security-priority.html</loc><lastmod>2026-06-20</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
   <url><loc>https://fuelwired.com/article-scatec-says-solar-project-can-save-egypt-400mm-from-lng.html</loc><lastmod>2026-06-20</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
+  <url><loc>https://fuelwired.com/article-the-us-states-leading-the-backlash-against-data-centers.html</loc><lastmod>2026-06-20</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
   <url><loc>https://fuelwired.com/article-oil-rises-as-iran-talks-are-delayed.html</loc><lastmod>2026-06-19</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
   <url><loc>https://fuelwired.com/article-solar-is-the-cheapest-power-in-history-but-states-are-retreating-from-it.html</loc><lastmod>2026-06-19</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
   <url><loc>https://fuelwired.com/article-why-lunar-helium-3-mining-still-cant-compete-with-earth.html</loc><lastmod>2026-06-19</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
