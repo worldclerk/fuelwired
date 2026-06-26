@@ -1,9 +1,49 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://fuelwired.com/</loc><lastmod>2026-06-18</lastmod><changefreq>daily</changefreq><priority>1.0</priority></url>
-  <url><loc>https://fuelwired.com/about.html</loc><lastmod>2026-06-18</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
+  <url><loc>https://fuelwired.com/</loc><lastmod>2026-06-26</lastmod><changefreq>daily</changefreq><priority>1.0</priority></url>
+  <url><loc>https://fuelwired.com/about.html</loc><lastmod>2026-06-26</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
   <url><loc>https://fuelwired.com/leadership-changes.html</loc><lastmod>2026-06-26</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://fuelwired.com/feed.xml</loc><lastmod>2026-06-18</lastmod><changefreq>daily</changefreq><priority>0.3</priority></url>
+  <url><loc>https://fuelwired.com/feed.xml</loc><lastmod>2026-06-26</lastmod><changefreq>daily</changefreq><priority>0.3</priority></url>
+  <url><loc>https://fuelwired.com/article-eia-sees-usa-energy-demand-dropping-in-2026-rising-in-2027.html</loc><lastmod>2026-06-26</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
+  <url><loc>https://fuelwired.com/article-traffic-flows-through-hormuz-despite-ship-attack.html</loc><lastmod>2026-06-26</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
+  <url><loc>https://fuelwired.com/article-usa-oil-gas-workforce-rises-from-april-to-may.html</loc><lastmod>2026-06-26</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
+  <url><loc>https://fuelwired.com/article-doe-plans-175b-loans-for-westinghouse-backed-nuclear-projects.html</loc><lastmod>2026-06-26</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
+  <url><loc>https://fuelwired.com/article-var-energi-greenlights-gjoa-projects.html</loc><lastmod>2026-06-26</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
+  <url><loc>https://fuelwired.com/article-china-isnt-giving-up-on-coal-despite-green-energy-goals.html</loc><lastmod>2026-06-26</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
+  <url><loc>https://fuelwired.com/article-why-is-oil-trading-down-today.html</loc><lastmod>2026-06-26</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
+  <url><loc>https://fuelwired.com/article-equinor-submits-wisting-oilfield-eia-for-public-review.html</loc><lastmod>2026-06-26</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
+  <url><loc>https://fuelwired.com/article-baghdad-hosting-eu-energy-talks-after-iraq-floats-opec-exit.html</loc><lastmod>2026-06-26</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
+  <url><loc>https://fuelwired.com/article-baker-hughes-wins-contract-from-azule-energy-for-greater-paj-project.html</loc><lastmod>2026-06-26</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
+  <url><loc>https://fuelwired.com/article-naftogaz-orlen-ink-new-lng-decarbonization-agreements.html</loc><lastmod>2026-06-26</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
+  <url><loc>https://fuelwired.com/article-what-happened-to-big-oils-green-pivot.html</loc><lastmod>2026-06-26</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
+  <url><loc>https://fuelwired.com/article-strike-averted-as-norway-onshore-support-workers-agree-new-terms.html</loc><lastmod>2026-06-26</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
+  <url><loc>https://fuelwired.com/article-output-at-key-field-in-kazakhstan-takes-hit-from-attack-on-russian-plant.html</loc><lastmod>2026-06-26</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
+  <url><loc>https://fuelwired.com/article-saudi-arabia-set-to-slash-oil-prices-as-hormuz-reopens.html</loc><lastmod>2026-06-26</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
+  <url><loc>https://fuelwired.com/article-ongc-signs-technical-services-deal-with-bp-for-western-offshore-basin.html</loc><lastmod>2026-06-26</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
+  <url><loc>https://fuelwired.com/article-kazakhstan-cuts-gas-output-after-drone-strike-on-russian-processing-plant.html</loc><lastmod>2026-06-26</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
+  <url><loc>https://fuelwired.com/article-crude-prices-sink-as-traders-bet-on-more-iranian-oil.html</loc><lastmod>2026-06-26</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
+  <url><loc>https://fuelwired.com/article-chinas-crude-imports-set-to-hit-weakest-level-since-2016.html</loc><lastmod>2026-06-26</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
+  <url><loc>https://fuelwired.com/article-hormuz-shipping-confidence-is-still-shaky.html</loc><lastmod>2026-06-26</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
+  <url><loc>https://fuelwired.com/article-qatar-offers-first-crude-loadings-to-buyers-since-war-began.html</loc><lastmod>2026-06-26</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
+  <url><loc>https://fuelwired.com/article-qatars-lng-recovery-picks-up-speed-as-tankers-mass-at-ras-laffan.html</loc><lastmod>2026-06-26</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
+  <url><loc>https://fuelwired.com/article-oil-heads-for-weekly-loss-as-hormuz-tanker-traffic-rebounds.html</loc><lastmod>2026-06-26</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
+  <url><loc>https://fuelwired.com/article-oil-rebounds-after-hormuz-ship-attack.html</loc><lastmod>2026-06-25</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
+  <url><loc>https://fuelwired.com/article-the-7-trillion-ai-boom-is-running-out-of-power.html</loc><lastmod>2026-06-25</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
+  <url><loc>https://fuelwired.com/article-colombias-cocaine-trade-now-outearns-its-oil-exports.html</loc><lastmod>2026-06-25</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
+  <url><loc>https://fuelwired.com/article-geothermal-could-power-65-million-us-homes-by-2050-doe-says.html</loc><lastmod>2026-06-25</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
+  <url><loc>https://fuelwired.com/article-conservatives-demand-repeal-of-biofuel-blending-quotas.html</loc><lastmod>2026-06-25</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
+  <url><loc>https://fuelwired.com/article-vitol-seals-20-year-1mmtpa-deal-to-supply-lng-to-irh.html</loc><lastmod>2026-06-25</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
+  <url><loc>https://fuelwired.com/article-asias-crude-buying-spree-is-running-out-of-steam.html</loc><lastmod>2026-06-25</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
+  <url><loc>https://fuelwired.com/article-vår-energi-submits-pdo-for-gjøa-subsea-projects-in-north-sea.html</loc><lastmod>2026-06-25</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
+  <url><loc>https://fuelwired.com/article-wellesley-confirms-new-discovery-in-norwegian-north-sea.html</loc><lastmod>2026-06-25</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
+  <url><loc>https://fuelwired.com/article-poland-to-build-a-third-lng-import-terminal.html</loc><lastmod>2026-06-25</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
+  <url><loc>https://fuelwired.com/article-bp-totalenergies-join-bab-gas-cap-project-in-abu-dhabi.html</loc><lastmod>2026-06-25</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
+  <url><loc>https://fuelwired.com/article-modec-to-supply-sofec-mooring-system-for-coral-norte-flng.html</loc><lastmod>2026-06-25</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
+  <url><loc>https://fuelwired.com/article-jadestone-starts-production-from-first-2026-malaysia-infill-well.html</loc><lastmod>2026-06-25</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
+  <url><loc>https://fuelwired.com/article-totalenergies-acquires-10-stake-in-bab-gas-cap-concession.html</loc><lastmod>2026-06-25</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
+  <url><loc>https://fuelwired.com/article-ades-to-acquire-saipems-saudi-rig-owning-unit-for-285m.html</loc><lastmod>2026-06-24</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
+  <url><loc>https://fuelwired.com/article-pln-epi-hot-taps-wnts-to-link-conrads-mako-gas-project.html</loc><lastmod>2026-06-24</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
+  <url><loc>https://fuelwired.com/article-baker-hughes-wins-service-contract-for-nigerias-anoh-gas-plant.html</loc><lastmod>2026-06-24</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
   <url><loc>https://fuelwired.com/article-sable-seeks-1b-loan.html</loc><lastmod>2026-06-18</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
   <url><loc>https://fuelwired.com/article-equinor-targets-150000-boed-production-growth-by-2030.html</loc><lastmod>2026-06-18</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
   <url><loc>https://fuelwired.com/article-exxonmobil-and-zet-strike-deal-for-south-africas-first-lng-terminal.html</loc><lastmod>2026-06-18</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
