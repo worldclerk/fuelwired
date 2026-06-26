@@ -598,6 +598,7 @@ def generate_about() -> None:
         '    <a class="nav-link" href="/#latest">Downstream</a>\n'
         '    <a class="nav-link" href="/#latest">LNG</a>\n'
         '    <a class="nav-link active" href="about.html">About</a>\n'
+        '    <a class="nav-link" href="leadership-changes.html">Leadership</a>\n'
         '  </nav>\n'
         '  </div></div>\n</header>\n'
         '<main class="page-main" style="padding-top:60px;">\n'
@@ -733,6 +734,7 @@ def generate_article_page(article: dict, all_articles: list = None) -> None:
         <a class="nav-link" href="/#latest">Downstream</a>
         <a class="nav-link" href="/#latest">LNG</a>
         <a class="nav-link" href="about.html">About</a>
+        <a class="nav-link" href="leadership-changes.html">Leadership</a>
       </nav>
       <div class="header-actions">
         <a class="btn-subscribe" href="/#newsletter">Subscribe Free</a>
@@ -974,6 +976,7 @@ def regenerate_index(articles: list) -> None:
         <a class="nav-link" href="#latest" onclick="window.fwFilterNav('downstream');return false;">Downstream</a>
         <a class="nav-link" href="#latest" onclick="window.fwFilterNav('lng');return false;">LNG</a>
         <a class="nav-link" href="about.html">About</a>
+        <a class="nav-link" href="leadership-changes.html">Leadership</a>
       </nav>
       <div class="header-actions">
         <a class="btn-subscribe" href="#newsletter">Subscribe Free</a>
