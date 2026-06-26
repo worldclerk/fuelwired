@@ -501,6 +501,7 @@ def generate_sitemap(articles: list) -> None:
     urls  = [
         f'  <url><loc>https://fuelwired.com/</loc><lastmod>{today}</lastmod><changefreq>daily</changefreq><priority>1.0</priority></url>',
         f'  <url><loc>https://fuelwired.com/about.html</loc><lastmod>{today}</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>',
+        f'  <url><loc>https://fuelwired.com/leadership-changes.html</loc><lastmod>{today}</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>',
         f'  <url><loc>https://fuelwired.com/feed.xml</loc><lastmod>{today}</lastmod><changefreq>daily</changefreq><priority>0.3</priority></url>',
     ]
     for article in articles:
