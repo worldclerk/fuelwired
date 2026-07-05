@@ -1,9 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://fuelwired.com/</loc><lastmod>2026-07-04</lastmod><changefreq>daily</changefreq><priority>1.0</priority></url>
-  <url><loc>https://fuelwired.com/about.html</loc><lastmod>2026-07-04</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
-  <url><loc>https://fuelwired.com/leadership-changes.html</loc><lastmod>2026-07-04</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://fuelwired.com/feed.xml</loc><lastmod>2026-07-04</lastmod><changefreq>daily</changefreq><priority>0.3</priority></url>
+  <url><loc>https://fuelwired.com/</loc><lastmod>2026-07-05</lastmod><changefreq>daily</changefreq><priority>1.0</priority></url>
+  <url><loc>https://fuelwired.com/about.html</loc><lastmod>2026-07-05</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
+  <url><loc>https://fuelwired.com/leadership-changes.html</loc><lastmod>2026-07-05</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://fuelwired.com/feed.xml</loc><lastmod>2026-07-05</lastmod><changefreq>daily</changefreq><priority>0.3</priority></url>
+  <url><loc>https://fuelwired.com/article-santos-secures-10-year-deal-to-supply-gas-to-south-australia.html</loc><lastmod>2026-07-05</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
+  <url><loc>https://fuelwired.com/article-dip-in-us-lng-imports-to-eu-spells-trouble-for-trade-deal.html</loc><lastmod>2026-07-04</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
+  <url><loc>https://fuelwired.com/article-largest-data-center-project-ever-proposed-is-officially-dead.html</loc><lastmod>2026-07-04</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
+  <url><loc>https://fuelwired.com/article-asia-bets-on-biofuels-to-dodge-middle-east-oil-shortages.html</loc><lastmod>2026-07-04</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
+  <url><loc>https://fuelwired.com/article-russia-hikes-june-subsidies-to-refiners.html</loc><lastmod>2026-07-04</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
+  <url><loc>https://fuelwired.com/article-courts-and-congress-are-undoing-trumps-war-on-wind-power.html</loc><lastmod>2026-07-04</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
   <url><loc>https://fuelwired.com/article-refiner-profits-are-soaring.html</loc><lastmod>2026-07-03</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
   <url><loc>https://fuelwired.com/article-colombias-oil-and-gas-reserves-keep-shrinking.html</loc><lastmod>2026-07-03</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
   <url><loc>https://fuelwired.com/article-texas-oil-regulator-directs-doge-to-enhance-rrc-efficiency.html</loc><lastmod>2026-07-03</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
@@ -88,10 +94,4 @@
   <url><loc>https://fuelwired.com/article-transocean-secures-1bn-equinor-contract-for-three-norwegian-rigs.html</loc><lastmod>2026-07-01</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
   <url><loc>https://fuelwired.com/article-eia-us-crude-inventories-post-another-major-draw.html</loc><lastmod>2026-07-01</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
   <url><loc>https://fuelwired.com/article-oils-softening-trend-continues.html</loc><lastmod>2026-07-01</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
-  <url><loc>https://fuelwired.com/article-japans-biggest-lng-buyer-creates-standalone-trading-arm.html</loc><lastmod>2026-07-01</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
-  <url><loc>https://fuelwired.com/article-adnoc-eni-acquire-stakes-in-argentina-lng-blocks.html</loc><lastmod>2026-07-01</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
-  <url><loc>https://fuelwired.com/article-us-raises-pressure-on-iran-with-renewed-military-warning.html</loc><lastmod>2026-07-01</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
-  <url><loc>https://fuelwired.com/article-eu-industry-splits-over-emissions-trading-scheme-overhaul.html</loc><lastmod>2026-07-01</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
-  <url><loc>https://fuelwired.com/article-shell-to-divest-na-kika-and-coulomb-assets-for-17bn.html</loc><lastmod>2026-07-01</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
-  <url><loc>https://fuelwired.com/article-us-makes-progress-in-indirect-talks-on-iran-deal.html</loc><lastmod>2026-07-01</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
 </urlset>
