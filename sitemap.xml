@@ -1,13 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://fuelwired.com/</loc><lastmod>2026-07-10</lastmod><changefreq>daily</changefreq><priority>1.0</priority></url>
-  <url><loc>https://fuelwired.com/about.html</loc><lastmod>2026-07-10</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
-  <url><loc>https://fuelwired.com/leadership-changes.html</loc><lastmod>2026-07-10</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://fuelwired.com/feed.xml</loc><lastmod>2026-07-10</lastmod><changefreq>daily</changefreq><priority>0.3</priority></url>
+  <url><loc>https://fuelwired.com/</loc><lastmod>2026-07-11</lastmod><changefreq>daily</changefreq><priority>1.0</priority></url>
+  <url><loc>https://fuelwired.com/about.html</loc><lastmod>2026-07-11</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
+  <url><loc>https://fuelwired.com/leadership-changes.html</loc><lastmod>2026-07-11</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://fuelwired.com/feed.xml</loc><lastmod>2026-07-11</lastmod><changefreq>daily</changefreq><priority>0.3</priority></url>
+  <url><loc>https://fuelwired.com/article-iea-says-uae-oil-output-surged-to-record-high-in-june.html</loc><lastmod>2026-07-10</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
+  <url><loc>https://fuelwired.com/article-europes-nuclear-plants-cant-beat-the-heat.html</loc><lastmod>2026-07-10</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
+  <url><loc>https://fuelwired.com/article-kazakhstan-extends-petroleum-export-ban-six-months-as-hormuz-tensions-flare.html</loc><lastmod>2026-07-10</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
   <url><loc>https://fuelwired.com/article-boem-explores-potential-for-ocs-space-launch-and-recovery.html</loc><lastmod>2026-07-10</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
   <url><loc>https://fuelwired.com/article-venezuela-breaks-up-oil-monopoly-under-new-rules.html</loc><lastmod>2026-07-10</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
+  <url><loc>https://fuelwired.com/article-summer-heatwaves-are-rewriting-the-rules-for-britains-power-grid.html</loc><lastmod>2026-07-10</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
+  <url><loc>https://fuelwired.com/article-us-oil-gas-drillers-hang-back-in-volatile-market.html</loc><lastmod>2026-07-10</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
   <url><loc>https://fuelwired.com/article-chevron-to-continue-supplying-gas-to-australian-utility-alinta.html</loc><lastmod>2026-07-10</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
+  <url><loc>https://fuelwired.com/article-china-tightens-its-grip-on-namibias-next-energy-boom.html</loc><lastmod>2026-07-10</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
   <url><loc>https://fuelwired.com/article-eia-cuts-2026-2027-usa-gasoline-price-projection.html</loc><lastmod>2026-07-10</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
+  <url><loc>https://fuelwired.com/article-oils-calm-is-over-as-middle-east-risks-return.html</loc><lastmod>2026-07-10</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
+  <url><loc>https://fuelwired.com/article-russian-fuel-disruptions-push-central-asia-into-an-energy-crisis.html</loc><lastmod>2026-07-10</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
   <url><loc>https://fuelwired.com/article-iea-chief-urges-eu-to-drop-arctic-drilling-ban.html</loc><lastmod>2026-07-10</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
   <url><loc>https://fuelwired.com/article-strategists-expect-usa-iran-tension-to-be-short-lived.html</loc><lastmod>2026-07-10</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
   <url><loc>https://fuelwired.com/article-baker-hughes-wins-contracts-for-chenieres-sabine-pass-lng-expansion.html</loc><lastmod>2026-07-10</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
@@ -86,12 +94,4 @@
   <url><loc>https://fuelwired.com/article-fed-president-stays-optimistic-as-energy-prices-fall.html</loc><lastmod>2026-07-07</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
   <url><loc>https://fuelwired.com/article-oil-jumps-on-hormuz-shipping-attacks.html</loc><lastmod>2026-07-07</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
   <url><loc>https://fuelwired.com/article-why-the-ai-boom-is-about-to-break-the-us-power-grid.html</loc><lastmod>2026-07-07</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
-  <url><loc>https://fuelwired.com/article-the-next-oil-price-spike-could-come-sooner-than-traders-think.html</loc><lastmod>2026-07-07</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
-  <url><loc>https://fuelwired.com/article-has-iraq-finally-run-out-of-road-in-its-double-dealings-with-the-west.html</loc><lastmod>2026-07-07</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
-  <url><loc>https://fuelwired.com/article-trumps-nuclear-loan-program-wont-fix-whats-really-broken.html</loc><lastmod>2026-07-07</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
-  <url><loc>https://fuelwired.com/article-us-crude-oil-product-inventories-fall-even-as-hormuz-traffic-begins-to-flow.html</loc><lastmod>2026-07-07</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
-  <url><loc>https://fuelwired.com/article-bp-exits-bay-du-nord-project-offshore-canada.html</loc><lastmod>2026-07-07</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
-  <url><loc>https://fuelwired.com/article-big-oils-windfall-earnings-threaten-to-reignite-trumps-price-gouging-push.html</loc><lastmod>2026-07-07</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
-  <url><loc>https://fuelwired.com/article-north-america-finally-snaps-rig-count-addition-streak.html</loc><lastmod>2026-07-07</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
-  <url><loc>https://fuelwired.com/article-shell-expects-gas-trading-results-to-exceed-q1.html</loc><lastmod>2026-07-07</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
 </urlset>
