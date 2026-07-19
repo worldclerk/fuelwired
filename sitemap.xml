@@ -1,9 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://fuelwired.com/</loc><lastmod>2026-07-18</lastmod><changefreq>daily</changefreq><priority>1.0</priority></url>
-  <url><loc>https://fuelwired.com/about.html</loc><lastmod>2026-07-18</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
-  <url><loc>https://fuelwired.com/leadership-changes.html</loc><lastmod>2026-07-18</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://fuelwired.com/feed.xml</loc><lastmod>2026-07-18</lastmod><changefreq>daily</changefreq><priority>0.3</priority></url>
+  <url><loc>https://fuelwired.com/</loc><lastmod>2026-07-19</lastmod><changefreq>daily</changefreq><priority>1.0</priority></url>
+  <url><loc>https://fuelwired.com/about.html</loc><lastmod>2026-07-19</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
+  <url><loc>https://fuelwired.com/leadership-changes.html</loc><lastmod>2026-07-19</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://fuelwired.com/feed.xml</loc><lastmod>2026-07-19</lastmod><changefreq>daily</changefreq><priority>0.3</priority></url>
+  <url><loc>https://fuelwired.com/article-europes-heatwave-is-becoming-an-energy-crisis.html</loc><lastmod>2026-07-18</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
+  <url><loc>https://fuelwired.com/article-what-is-a-microgrid-how-they-work-and-why-theyre-suddenly-everywhere.html</loc><lastmod>2026-07-18</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
+  <url><loc>https://fuelwired.com/article-canada-unveils-new-pipeline-to-cut-reliance-on-us-oil-routes.html</loc><lastmod>2026-07-18</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
+  <url><loc>https://fuelwired.com/article-forgotten-shale-gas-play-reemerges-as-oil-hot-spot.html</loc><lastmod>2026-07-18</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
   <url><loc>https://fuelwired.com/article-oil-jumps-on-fears-of-wider-iran-war.html</loc><lastmod>2026-07-17</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
   <url><loc>https://fuelwired.com/article-bangladeshs-1265-billion-nuclear-bet-faces-its-biggest-test-yet.html</loc><lastmod>2026-07-17</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
   <url><loc>https://fuelwired.com/article-colombias-new-government-prepares-fossil-fuel-comeback.html</loc><lastmod>2026-07-17</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
@@ -90,8 +94,4 @@
   <url><loc>https://fuelwired.com/article-ukraine-intensifies-attacks-on-russian-tankers-in-the-black-sea.html</loc><lastmod>2026-07-15</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
   <url><loc>https://fuelwired.com/article-oil-prices-climb-for-fourth-day-as-iran-threatens-new-energy-chokepoints.html</loc><lastmod>2026-07-15</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
   <url><loc>https://fuelwired.com/article-brent-futures-flip-to-backwardation-as-middle-east-supply-risks-return.html</loc><lastmod>2026-07-15</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
-  <url><loc>https://fuelwired.com/article-us-gasoline-prices-could-hit-4-per-gallon-within-days.html</loc><lastmod>2026-07-15</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
-  <url><loc>https://fuelwired.com/article-us-backs-iraq-syria-oil-pipeline-to-bypass-the-strait-of-hormuz.html</loc><lastmod>2026-07-15</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
-  <url><loc>https://fuelwired.com/article-chinas-refinery-runs-crash-to-pandemic-lows-as-crude-imports-collapse.html</loc><lastmod>2026-07-15</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
-  <url><loc>https://fuelwired.com/article-oil-hits-one-month-high.html</loc><lastmod>2026-07-14</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
 </urlset>
