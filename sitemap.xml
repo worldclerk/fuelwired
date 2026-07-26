@@ -1,9 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://fuelwired.com/</loc><lastmod>2026-07-25</lastmod><changefreq>daily</changefreq><priority>1.0</priority></url>
-  <url><loc>https://fuelwired.com/about.html</loc><lastmod>2026-07-25</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
-  <url><loc>https://fuelwired.com/leadership-changes.html</loc><lastmod>2026-07-25</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://fuelwired.com/feed.xml</loc><lastmod>2026-07-25</lastmod><changefreq>daily</changefreq><priority>0.3</priority></url>
+  <url><loc>https://fuelwired.com/</loc><lastmod>2026-07-26</lastmod><changefreq>daily</changefreq><priority>1.0</priority></url>
+  <url><loc>https://fuelwired.com/about.html</loc><lastmod>2026-07-26</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
+  <url><loc>https://fuelwired.com/leadership-changes.html</loc><lastmod>2026-07-26</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://fuelwired.com/feed.xml</loc><lastmod>2026-07-26</lastmod><changefreq>daily</changefreq><priority>0.3</priority></url>
+  <url><loc>https://fuelwired.com/article-can-an-ai-black-box-be-trusted-to-run-a-nuclear-reactor.html</loc><lastmod>2026-07-25</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
+  <url><loc>https://fuelwired.com/article-the-carbon-capture-boom-is-starting-to-crack.html</loc><lastmod>2026-07-25</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
+  <url><loc>https://fuelwired.com/article-global-inflation-angst-is-back.html</loc><lastmod>2026-07-25</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
+  <url><loc>https://fuelwired.com/article-ucla-scientists-turn-plastic-waste-into-pure-hydrogen-fuel.html</loc><lastmod>2026-07-25</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
+  <url><loc>https://fuelwired.com/article-eu-backs-off-methane-rules-as-energy-security-fears-mount.html</loc><lastmod>2026-07-25</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
   <url><loc>https://fuelwired.com/article-brent-pulls-back-from-100.html</loc><lastmod>2026-07-24</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
   <url><loc>https://fuelwired.com/article-slb-sees-growth-broadening-beyond-mideast.html</loc><lastmod>2026-07-24</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
   <url><loc>https://fuelwired.com/article-the-strait-of-hormuz-closure-is-already-hitting-supermarket-prices.html</loc><lastmod>2026-07-24</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
@@ -89,9 +94,4 @@
   <url><loc>https://fuelwired.com/article-ge-vernova-wins-order-for-six-gas-turbines-to-aid-hawaiian-grid-stability.html</loc><lastmod>2026-07-22</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
   <url><loc>https://fuelwired.com/article-fluor-selected-for-feed-of-gpics-aromatics-project-in-bahrain.html</loc><lastmod>2026-07-22</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
   <url><loc>https://fuelwired.com/article-tgs-and-ghana-petroleum-commission-sign-keta-basin-seismic-deal.html</loc><lastmod>2026-07-22</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
-  <url><loc>https://fuelwired.com/article-vår-energi-to-acquire-bluenord-in-13bn-cash-and-stock-deal.html</loc><lastmod>2026-07-22</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
-  <url><loc>https://fuelwired.com/article-chinas-oil-output-hits-record-high.html</loc><lastmod>2026-07-22</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
-  <url><loc>https://fuelwired.com/article-surging-oil-prices-push-japans-import-bill-to-an-unprecedented-high.html</loc><lastmod>2026-07-22</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
-  <url><loc>https://fuelwired.com/article-us-iran-conflict-threatens-long-term-energy-shock-across-asia.html</loc><lastmod>2026-07-22</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
-  <url><loc>https://fuelwired.com/article-oil-prices-climb-as-us-iran-conflict-shows-no-signs-of-slowing.html</loc><lastmod>2026-07-21</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
 </urlset>
