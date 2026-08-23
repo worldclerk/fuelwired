@@ -1,9 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://fuelwired.com/</loc><lastmod>2026-08-22</lastmod><changefreq>daily</changefreq><priority>1.0</priority></url>
-  <url><loc>https://fuelwired.com/about.html</loc><lastmod>2026-08-22</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
-  <url><loc>https://fuelwired.com/leadership-changes.html</loc><lastmod>2026-08-22</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://fuelwired.com/feed.xml</loc><lastmod>2026-08-22</lastmod><changefreq>daily</changefreq><priority>0.3</priority></url>
+  <url><loc>https://fuelwired.com/</loc><lastmod>2026-08-23</lastmod><changefreq>daily</changefreq><priority>1.0</priority></url>
+  <url><loc>https://fuelwired.com/about.html</loc><lastmod>2026-08-23</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
+  <url><loc>https://fuelwired.com/leadership-changes.html</loc><lastmod>2026-08-23</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://fuelwired.com/feed.xml</loc><lastmod>2026-08-23</lastmod><changefreq>daily</changefreq><priority>0.3</priority></url>
+  <url><loc>https://fuelwired.com/article-europe-dodges-a-rhine-crisis-for-the-worst-possible-reason.html</loc><lastmod>2026-08-22</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
+  <url><loc>https://fuelwired.com/article-the-gas-turbine-shortage-just-became-ais-biggest-constraint.html</loc><lastmod>2026-08-22</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
+  <url><loc>https://fuelwired.com/article-clean-energy-spending-tracking-toward-record-180-billion-in-2026.html</loc><lastmod>2026-08-22</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
+  <url><loc>https://fuelwired.com/article-every-chokepoint-that-isnt-hormuz.html</loc><lastmod>2026-08-22</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
+  <url><loc>https://fuelwired.com/article-us-refiners-face-import-crunch-from-top-crude-seller.html</loc><lastmod>2026-08-22</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
+  <url><loc>https://fuelwired.com/article-iea-southeast-asia-needs-grid-investment-to-nearly-quadruple-by-2050.html</loc><lastmod>2026-08-22</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
   <url><loc>https://fuelwired.com/article-oil-rises-as-us-targets-irans-economy.html</loc><lastmod>2026-08-21</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
   <url><loc>https://fuelwired.com/article-chinas-new-five-year-plan-preps-the-nation-for-peak-oil.html</loc><lastmod>2026-08-21</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
   <url><loc>https://fuelwired.com/article-the-race-to-unlock-the-worlds-hidden-hydrogen-reserves.html</loc><lastmod>2026-08-21</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
@@ -88,10 +94,4 @@
   <url><loc>https://fuelwired.com/article-saudi-aramco-gives-full-september-oil-allocations-to-3-european-refiners.html</loc><lastmod>2026-08-19</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
   <url><loc>https://fuelwired.com/article-uk-inflation-jumps-to-29-as-energy-bills-bite.html</loc><lastmod>2026-08-19</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
   <url><loc>https://fuelwired.com/article-uae-freezes-trade-with-iran-after-missiles-fall-near-its-coast.html</loc><lastmod>2026-08-19</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
-  <url><loc>https://fuelwired.com/article-shell-taps-slb-for-production-restarts-offshore-brunei.html</loc><lastmod>2026-08-19</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
-  <url><loc>https://fuelwired.com/article-slb-wins-offshore-production-restoration-contract-from-bsp.html</loc><lastmod>2026-08-19</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
-  <url><loc>https://fuelwired.com/article-ai-in-smart-grids-how-grid-tech-is-navigating-challenges-and-opportunities.html</loc><lastmod>2026-08-19</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
-  <url><loc>https://fuelwired.com/article-north-sea-operators-back-decom-charter.html</loc><lastmod>2026-08-19</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
-  <url><loc>https://fuelwired.com/article-eia-shows-crude-oil-inventories-still-rising.html</loc><lastmod>2026-08-19</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
-  <url><loc>https://fuelwired.com/article-zenith-energy-to-lead-phase-two-of-northern-endeavour-decommissioning.html</loc><lastmod>2026-08-19</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
 </urlset>
