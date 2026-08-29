@@ -5,8 +5,24 @@
     <link>https://fuelwired.com/</link>
     <description>Real-time oil and gas industry news, energy market analysis, and LNG market intelligence.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 28 Aug 2026 19:07:50 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 12:52:05 +0000</lastBuildDate>
     <atom:link href="https://fuelwired.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title><![CDATA[Petrobras Considers Exporting LNG]]></title>
+      <link>https://fuelwired.com/article-petrobras-considers-exporting-lng.html</link>
+      <guid isPermaLink="true">https://fuelwired.com/article-petrobras-considers-exporting-lng.html</guid>
+      <pubDate>Fri, 28 Aug 2026 20:00:00 +0000</pubDate>
+      <category><![CDATA[LNG]]></category>
+      <description><![CDATA[Brazil's national oil company is exploring the prospect of exporting liquefied natural gas from its giant offshore fields.]]></description>
+    </item>
+    <item>
+      <title><![CDATA[Europe’s Russia Sanctions Have a Major Blind Spot]]></title>
+      <link>https://fuelwired.com/article-europes-russia-sanctions-have-a-major-blind-spot.html</link>
+      <guid isPermaLink="true">https://fuelwired.com/article-europes-russia-sanctions-have-a-major-blind-spot.html</guid>
+      <pubDate>Fri, 28 Aug 2026 15:00:00 +0000</pubDate>
+      <category><![CDATA[Policy]]></category>
+      <description><![CDATA[Over the last two years, the EU and UK have emerged as leading actors in imposing sanctions on Russia. But people like Maria Demertzis, Professor at the European University Institute in Italy, have raised questions…]]></description>
+    </item>
     <item>
       <title><![CDATA[USA Crude Oil Stocks Rise Slightly]]></title>
       <link>https://fuelwired.com/article-usa-crude-oil-stocks-rise-slightly.html</link>
@@ -150,22 +166,6 @@
       <pubDate>Fri, 28 Aug 2026 09:30:00 +0000</pubDate>
       <category><![CDATA[LNG]]></category>
       <description><![CDATA[Qatar’s state-owned QatarEnergy has extended by several weeks its force majeure on LNG deliveries to customers as the LNG flows at the Strait of Hormuz remained blocked despite increased oil flows. QatarEnergy has…]]></description>
-    </item>
-    <item>
-      <title><![CDATA[Trump Dismisses NATO Attack Fears After CIA Chief’s Moscow Trip]]></title>
-      <link>https://fuelwired.com/article-trump-dismisses-nato-attack-fears-after-cia-chiefs-moscow-trip.html</link>
-      <guid isPermaLink="true">https://fuelwired.com/article-trump-dismisses-nato-attack-fears-after-cia-chiefs-moscow-trip.html</guid>
-      <pubDate>Fri, 28 Aug 2026 09:00:00 +0000</pubDate>
-      <category><![CDATA[Markets]]></category>
-      <description><![CDATA[US President Donald Trump told reporters that he does not believe Moscow will attack a NATO nation amid rising concerns that Russian President Vladimir Putin will strike a Baltic country or other member state to test…]]></description>
-    </item>
-    <item>
-      <title><![CDATA[Amazon Nears 1 GW of Wind Power in Sweden With Four New Deals]]></title>
-      <link>https://fuelwired.com/article-amazon-nears-1-gw-of-wind-power-in-sweden-with-four-new-deals.html</link>
-      <guid isPermaLink="true">https://fuelwired.com/article-amazon-nears-1-gw-of-wind-power-in-sweden-with-four-new-deals.html</guid>
-      <pubDate>Fri, 28 Aug 2026 08:30:00 +0000</pubDate>
-      <category><![CDATA[Technology]]></category>
-      <description><![CDATA[Amazon has expanded Germany’s largest-ever power purchase agreement (PPA), signed in June, and announced another four deals to buy power from four wind farms in Sweden as the e-commerce giant and other…]]></description>
     </item>
   </channel>
 </rss>

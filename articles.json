@@ -1,5 +1,33 @@
 [
   {
+    "id": "cc72d44de574",
+    "slug": "petrobras-considers-exporting-lng",
+    "title": "Petrobras Considers Exporting LNG",
+    "link": "https://www.rigzone.com/news/wire/petrobras_considers_exporting_lng-28-aug-2026-184485-article/?rss=true",
+    "description": "Brazil's national oil company is exploring the prospect of exporting liquefied natural gas from its giant offshore fields.",
+    "excerpt": "Brazil's national oil company is exploring the prospect of exporting liquefied natural gas from its giant offshore fields.",
+    "pub_date": "2026-08-28T20:00:00",
+    "date_display": "Aug 28, 2026",
+    "category": "LNG",
+    "source": "Rigzone Latest",
+    "read_min": 1,
+    "filename": "article-petrobras-considers-exporting-lng.html"
+  },
+  {
+    "id": "8fe85265b1d0",
+    "slug": "europes-russia-sanctions-have-a-major-blind-spot",
+    "title": "Europe’s Russia Sanctions Have a Major Blind Spot",
+    "link": "https://oilprice.com/Energy/Energy-General/Europes-Russia-Sanctions-Have-a-Major-Blind-Spot.html",
+    "description": "Over the last two years, the EU and UK have emerged as leading actors in imposing sanctions on Russia. But people like Maria Demertzis, Professor at the European University Institute in Italy, have raised questions around the effectiveness of the sanctions campaign, as European institutions continue to operate profitable subsidiaries in the country with little scrutiny. UK and EU regulators should broaden their sanctions campaign by increasing scrutiny of European businesses that remain economically exposed to Russia. The new UK Foreign Secretary,…",
+    "excerpt": "Over the last two years, the EU and UK have emerged as leading actors in imposing sanctions on Russia. But people like Maria Demertzis, Professor at the European University Institute in Italy, have raised questions…",
+    "pub_date": "2026-08-28T15:00:00-05:00",
+    "date_display": "Aug 28, 2026",
+    "category": "Policy",
+    "source": "OilPrice.com",
+    "read_min": 1,
+    "filename": "article-europes-russia-sanctions-have-a-major-blind-spot.html"
+  },
+  {
     "id": "9389866384ab",
     "slug": "usa-crude-oil-stocks-rise-slightly",
     "title": "USA Crude Oil Stocks Rise Slightly",
@@ -1230,33 +1258,5 @@
     "source": "Offshore Technology",
     "read_min": 1,
     "filename": "article-alaska-judge-dismisses-challenge-to-trump-offshore-drilling-decision.html"
-  },
-  {
-    "id": "93f1825536e2",
-    "slug": "blm-sets-october-oil-and-gas-lease-sale-for-montana-and-dakotas",
-    "title": "BLM Sets October Oil and Gas Lease Sale for Montana and Dakotas",
-    "link": "https://oilprice.com/Latest-Energy-News/World-News/BLM-Sets-October-Oil-and-Gas-Lease-Sale-for-Montana-and-Dakotas.html",
-    "description": "The federal government is putting another 3,388 acres of public mineral estate on the auction block for oil and gas development in Montana and the Dakotas. The Bureau of Land Management said it will offer 20 parcels in an online oil and gas lease sale scheduled for October 27. The acreage has already worked its way through several stages of the federal review process. BLM completed scoping for the parcels in May and closed a public comment period on the acreage and related environmental analysis in July. There is still another opportunity to object.…",
-    "excerpt": "The federal government is putting another 3,388 acres of public mineral estate on the auction block for oil and gas development in Montana and the Dakotas. The Bureau of Land Management said it will offer 20 parcels in…",
-    "pub_date": "2026-08-25T12:45:00-05:00",
-    "date_display": "Aug 25, 2026",
-    "category": "Markets",
-    "source": "OilPrice.com",
-    "read_min": 1,
-    "filename": "article-blm-sets-october-oil-and-gas-lease-sale-for-montana-and-dakotas.html"
-  },
-  {
-    "id": "38830086dda7",
-    "slug": "china-defies-us-economic-d-day-against-iran",
-    "title": "China Defies U.S. Economic D-Day against Iran",
-    "link": "https://oilprice.com/Latest-Energy-News/World-News/China-Defies-US-Economic-D-Day-against-Iran.html",
-    "description": "China on Tuesday signaled it would not end its ties and trade relations with Iran following the U.S. sanctions unveiled on Monday that target Chinese and Hong Kong entities for helping Iran do business. On Monday, the U.S. Administration announced a series of new sanctions against individuals and entities linked with Iranian trade and economy, including the shipping and oil industry. However, “Operation Economic Outcast,” launched by Treasury Secretary Scott Bessent, stopped short of sanctioning any Chinese banks. The oil trade remains…",
-    "excerpt": "China on Tuesday signaled it would not end its ties and trade relations with Iran following the U.S. sanctions unveiled on Monday that target Chinese and Hong Kong entities for helping Iran do business. On Monday, the…",
-    "pub_date": "2026-08-25T12:15:00-05:00",
-    "date_display": "Aug 25, 2026",
-    "category": "Policy",
-    "source": "OilPrice.com",
-    "read_min": 1,
-    "filename": "article-china-defies-us-economic-d-day-against-iran.html"
   }
 ]

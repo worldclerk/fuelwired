@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://fuelwired.com/</loc><lastmod>2026-08-28</lastmod><changefreq>daily</changefreq><priority>1.0</priority></url>
-  <url><loc>https://fuelwired.com/about.html</loc><lastmod>2026-08-28</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
-  <url><loc>https://fuelwired.com/leadership-changes.html</loc><lastmod>2026-08-28</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://fuelwired.com/feed.xml</loc><lastmod>2026-08-28</lastmod><changefreq>daily</changefreq><priority>0.3</priority></url>
+  <url><loc>https://fuelwired.com/</loc><lastmod>2026-08-29</lastmod><changefreq>daily</changefreq><priority>1.0</priority></url>
+  <url><loc>https://fuelwired.com/about.html</loc><lastmod>2026-08-29</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
+  <url><loc>https://fuelwired.com/leadership-changes.html</loc><lastmod>2026-08-29</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://fuelwired.com/feed.xml</loc><lastmod>2026-08-29</lastmod><changefreq>daily</changefreq><priority>0.3</priority></url>
+  <url><loc>https://fuelwired.com/article-petrobras-considers-exporting-lng.html</loc><lastmod>2026-08-28</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
+  <url><loc>https://fuelwired.com/article-europes-russia-sanctions-have-a-major-blind-spot.html</loc><lastmod>2026-08-28</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
   <url><loc>https://fuelwired.com/article-usa-crude-oil-stocks-rise-slightly.html</loc><lastmod>2026-08-28</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
   <url><loc>https://fuelwired.com/article-jera-backs-startup-developing-solutions-for-grid-to-data-center-projects.html</loc><lastmod>2026-08-28</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
   <url><loc>https://fuelwired.com/article-mitico-declares-success-at-thai-refinery-carbon-capture-demo.html</loc><lastmod>2026-08-28</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
@@ -92,6 +94,4 @@
   <url><loc>https://fuelwired.com/article-russia-eyes-central-asia-as-a-safe-haven-for-its-defense-industry.html</loc><lastmod>2026-08-25</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
   <url><loc>https://fuelwired.com/article-navitas-petroleum-to-acquire-2nd-production-vessel-for-sea-lion-project.html</loc><lastmod>2026-08-25</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
   <url><loc>https://fuelwired.com/article-alaska-judge-dismisses-challenge-to-trump-offshore-drilling-decision.html</loc><lastmod>2026-08-25</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
-  <url><loc>https://fuelwired.com/article-blm-sets-october-oil-and-gas-lease-sale-for-montana-and-dakotas.html</loc><lastmod>2026-08-25</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
-  <url><loc>https://fuelwired.com/article-china-defies-us-economic-d-day-against-iran.html</loc><lastmod>2026-08-25</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
 </urlset>
