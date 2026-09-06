@@ -1,9 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://fuelwired.com/</loc><lastmod>2026-09-05</lastmod><changefreq>daily</changefreq><priority>1.0</priority></url>
-  <url><loc>https://fuelwired.com/about.html</loc><lastmod>2026-09-05</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
-  <url><loc>https://fuelwired.com/leadership-changes.html</loc><lastmod>2026-09-05</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://fuelwired.com/feed.xml</loc><lastmod>2026-09-05</lastmod><changefreq>daily</changefreq><priority>0.3</priority></url>
+  <url><loc>https://fuelwired.com/</loc><lastmod>2026-09-06</lastmod><changefreq>daily</changefreq><priority>1.0</priority></url>
+  <url><loc>https://fuelwired.com/about.html</loc><lastmod>2026-09-06</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
+  <url><loc>https://fuelwired.com/leadership-changes.html</loc><lastmod>2026-09-06</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://fuelwired.com/feed.xml</loc><lastmod>2026-09-06</lastmod><changefreq>daily</changefreq><priority>0.3</priority></url>
+  <url><loc>https://fuelwired.com/article-equinor-starts-up-100-mw-energy-storage-project-in-texas.html</loc><lastmod>2026-09-06</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
+  <url><loc>https://fuelwired.com/article-iran-war-forces-a-rewrite-of-global-oil-trade-routes.html</loc><lastmod>2026-09-05</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
+  <url><loc>https://fuelwired.com/article-japan-south-korea-and-the-us-forge-a-new-nuclear-alliance.html</loc><lastmod>2026-09-05</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
+  <url><loc>https://fuelwired.com/article-america-is-betting-big-on-a-new-generation-of-small-nuclear-reactors.html</loc><lastmod>2026-09-05</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
+  <url><loc>https://fuelwired.com/article-this-cattle-feedlot-turns-manure-into-12-million-mmbtu-of-natural-gas-a-year.html</loc><lastmod>2026-09-05</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
+  <url><loc>https://fuelwired.com/article-russias-oil-revenue-sinks-to-6-month-low.html</loc><lastmod>2026-09-05</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
+  <url><loc>https://fuelwired.com/article-green-bonds-hit-record-high-despite-persistent-challenges.html</loc><lastmod>2026-09-05</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
   <url><loc>https://fuelwired.com/article-oil-holds-gains.html</loc><lastmod>2026-09-04</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
   <url><loc>https://fuelwired.com/article-usa-retail-diesel-hits-record.html</loc><lastmod>2026-09-04</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
   <url><loc>https://fuelwired.com/article-how-the-us-fell-behind-china-on-nuclear-power.html</loc><lastmod>2026-09-04</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
@@ -87,11 +94,4 @@
   <url><loc>https://fuelwired.com/article-budget-airline-warns-jet-fuel-shock-could-wipe-out-rivals.html</loc><lastmod>2026-09-02</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
   <url><loc>https://fuelwired.com/article-the-suspicious-timing-behind-trumps-biggest-oil-deal-in-history.html</loc><lastmod>2026-09-02</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
   <url><loc>https://fuelwired.com/article-ai-could-unlock-230b-for-oil-gas-ofse-cos-mckinsey-says.html</loc><lastmod>2026-09-02</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
-  <url><loc>https://fuelwired.com/article-hormuz-traffic-craters-to-four-ships-as-iran-us-strikes-escalate.html</loc><lastmod>2026-09-02</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
-  <url><loc>https://fuelwired.com/article-can-digitised-colonial-records-unlock-the-drcs-mineral-exploration-potential.html</loc><lastmod>2026-09-02</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
-  <url><loc>https://fuelwired.com/article-ian-tyler-is-bp-chair-for-good.html</loc><lastmod>2026-09-02</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
-  <url><loc>https://fuelwired.com/article-oil-prices-hold-near-highs-after-military-action-and-tanker-incidents.html</loc><lastmod>2026-09-02</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
-  <url><loc>https://fuelwired.com/article-citgo-to-invest-310m-in-lake-charles-refinery-upgrade.html</loc><lastmod>2026-09-02</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
-  <url><loc>https://fuelwired.com/article-usa-ven-oil-deal-dubbed-a-major-opportunity.html</loc><lastmod>2026-09-02</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
-  <url><loc>https://fuelwired.com/article-trump-not-keen-on-deal-as-war-escalates.html</loc><lastmod>2026-09-02</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
 </urlset>
