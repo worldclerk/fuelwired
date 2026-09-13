@@ -1,9 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://fuelwired.com/</loc><lastmod>2026-09-12</lastmod><changefreq>daily</changefreq><priority>1.0</priority></url>
-  <url><loc>https://fuelwired.com/about.html</loc><lastmod>2026-09-12</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
-  <url><loc>https://fuelwired.com/leadership-changes.html</loc><lastmod>2026-09-12</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://fuelwired.com/feed.xml</loc><lastmod>2026-09-12</lastmod><changefreq>daily</changefreq><priority>0.3</priority></url>
+  <url><loc>https://fuelwired.com/</loc><lastmod>2026-09-13</lastmod><changefreq>daily</changefreq><priority>1.0</priority></url>
+  <url><loc>https://fuelwired.com/about.html</loc><lastmod>2026-09-13</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
+  <url><loc>https://fuelwired.com/leadership-changes.html</loc><lastmod>2026-09-13</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://fuelwired.com/feed.xml</loc><lastmod>2026-09-13</lastmod><changefreq>daily</changefreq><priority>0.3</priority></url>
+  <url><loc>https://fuelwired.com/article-harvester-energy-bags-new-malaysian-psc.html</loc><lastmod>2026-09-13</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
+  <url><loc>https://fuelwired.com/article-oil-industry-braces-for-years-long-iran-war.html</loc><lastmod>2026-09-12</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
+  <url><loc>https://fuelwired.com/article-stolen-electricity-is-powering-illegal-crypto-farms-across-the-globe.html</loc><lastmod>2026-09-12</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
+  <url><loc>https://fuelwired.com/article-the-race-to-solve-nuclear-energys-biggest-problem.html</loc><lastmod>2026-09-12</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
+  <url><loc>https://fuelwired.com/article-irans-security-crackdown-runs-into-resistance-from-within.html</loc><lastmod>2026-09-12</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
+  <url><loc>https://fuelwired.com/article-totalenergies-plans-10b-in-angola-oil-investments.html</loc><lastmod>2026-09-12</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
+  <url><loc>https://fuelwired.com/article-why-more-homes-are-switching-from-gas-to-heat-pumps.html</loc><lastmod>2026-09-12</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
   <url><loc>https://fuelwired.com/article-oil-posts-biggest-weekly-gain-since-july.html</loc><lastmod>2026-09-11</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
   <url><loc>https://fuelwired.com/article-iea-says-ukraine-strikes-degrade-russian-oil-refining-sector.html</loc><lastmod>2026-09-11</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
   <url><loc>https://fuelwired.com/article-europes-less-is-doing-more-than-anyone-gives-it-credit-for.html</loc><lastmod>2026-09-11</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
@@ -87,11 +94,4 @@
   <url><loc>https://fuelwired.com/article-saipem-wins-osman-gazi-fpu-commissioning-contract-in-türkiye.html</loc><lastmod>2026-09-09</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
   <url><loc>https://fuelwired.com/article-belarus-refineries-post-decade-high-profits-amid-russias-fuel-crisis.html</loc><lastmod>2026-09-09</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
   <url><loc>https://fuelwired.com/article-us-moves-to-isolate-irans-aviation-sector-from-the-global-economy.html</loc><lastmod>2026-09-09</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
-  <url><loc>https://fuelwired.com/article-hsbc-analysts-significantly-raise-oil-price-forecasts.html</loc><lastmod>2026-09-09</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
-  <url><loc>https://fuelwired.com/article-drones-in-solar-where-can-automation-deliver-the-most-value.html</loc><lastmod>2026-09-09</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
-  <url><loc>https://fuelwired.com/article-belgian-utility-gets-over-1b-eib-loan-for-artificial-north-sea-energy-isle.html</loc><lastmod>2026-09-09</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
-  <url><loc>https://fuelwired.com/article-oil-prices-pass-100-amid-intensified-middle-east-hostilities.html</loc><lastmod>2026-09-09</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
-  <url><loc>https://fuelwired.com/article-santos-commences-drilling-of-first-appraisal-well-in-beetaloo-basin.html</loc><lastmod>2026-09-09</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
-  <url><loc>https://fuelwired.com/article-brent-oil-price-breaks-100-per-barrel.html</loc><lastmod>2026-09-09</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
-  <url><loc>https://fuelwired.com/article-oil-and-gas-electrification-why-the-sectors-big-shift-has-a-power-problem.html</loc><lastmod>2026-09-09</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
 </urlset>
