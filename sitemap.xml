@@ -1,9 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://fuelwired.com/</loc><lastmod>2026-09-19</lastmod><changefreq>daily</changefreq><priority>1.0</priority></url>
-  <url><loc>https://fuelwired.com/about.html</loc><lastmod>2026-09-19</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
-  <url><loc>https://fuelwired.com/leadership-changes.html</loc><lastmod>2026-09-19</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://fuelwired.com/feed.xml</loc><lastmod>2026-09-19</lastmod><changefreq>daily</changefreq><priority>0.3</priority></url>
+  <url><loc>https://fuelwired.com/</loc><lastmod>2026-09-20</lastmod><changefreq>daily</changefreq><priority>1.0</priority></url>
+  <url><loc>https://fuelwired.com/about.html</loc><lastmod>2026-09-20</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
+  <url><loc>https://fuelwired.com/leadership-changes.html</loc><lastmod>2026-09-20</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://fuelwired.com/feed.xml</loc><lastmod>2026-09-20</lastmod><changefreq>daily</changefreq><priority>0.3</priority></url>
+  <url><loc>https://fuelwired.com/article-energy-giants-are-betting-billions-on-a-world-of-longer-oil-routes.html</loc><lastmod>2026-09-19</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
+  <url><loc>https://fuelwired.com/article-europe-outbids-asia-for-lng-as-prices-surge-150.html</loc><lastmod>2026-09-19</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
+  <url><loc>https://fuelwired.com/article-britain-faces-150-billion-grid-overhaul-to-power-renewable-energy-boom.html</loc><lastmod>2026-09-19</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
+  <url><loc>https://fuelwired.com/article-iaea-triples-nuclear-power-forecast-as-small-reactors-finally-take-off.html</loc><lastmod>2026-09-19</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
+  <url><loc>https://fuelwired.com/article-mitsui-osk-to-sell-older-oil-tankers-as-prices-surge.html</loc><lastmod>2026-09-19</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
+  <url><loc>https://fuelwired.com/article-un-warns-world-must-prepare-for-life-beyond-15c.html</loc><lastmod>2026-09-19</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
   <url><loc>https://fuelwired.com/article-oil-falls-as-supply-fears-ease.html</loc><lastmod>2026-09-18</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
   <url><loc>https://fuelwired.com/article-global-shipping-costs-explode-as-hormuz-disruptions-hit-key-trade-routes.html</loc><lastmod>2026-09-18</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
   <url><loc>https://fuelwired.com/article-space-based-solar-power-could-reach-the-grid-by-2028.html</loc><lastmod>2026-09-18</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
@@ -88,10 +94,4 @@
   <url><loc>https://fuelwired.com/article-export-constraints-curb-kazakhstans-ability-to-offset-the-global-oil-shortage.html</loc><lastmod>2026-09-16</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
   <url><loc>https://fuelwired.com/article-bkv-expands-barnett-shale-footprint.html</loc><lastmod>2026-09-16</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
   <url><loc>https://fuelwired.com/article-africa-to-drive-global-upcoming-liquid-storage-capacity-additions-by-2030.html</loc><lastmod>2026-09-16</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
-  <url><loc>https://fuelwired.com/article-gas-prices-jump-in-every-state.html</loc><lastmod>2026-09-16</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
-  <url><loc>https://fuelwired.com/article-buru-says-rafael-gas-project-holds-over-15-mmboe-2p-reserves.html</loc><lastmod>2026-09-16</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
-  <url><loc>https://fuelwired.com/article-sri-lanka-invites-explorers-to-assess-four-mannar-basin-blocks.html</loc><lastmod>2026-09-16</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
-  <url><loc>https://fuelwired.com/article-market-expectations-shift-towards-prolonged-usa-iran-conflict.html</loc><lastmod>2026-09-16</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
-  <url><loc>https://fuelwired.com/article-borr-drilling-to-sell-51-stake-in-perfomex-to-mexican-partner.html</loc><lastmod>2026-09-16</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
-  <url><loc>https://fuelwired.com/article-aker-bp-makes-new-north-sea-gas-discovery.html</loc><lastmod>2026-09-16</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
 </urlset>
