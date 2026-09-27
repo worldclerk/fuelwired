@@ -1,10 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://fuelwired.com/</loc><lastmod>2026-09-26</lastmod><changefreq>daily</changefreq><priority>1.0</priority></url>
-  <url><loc>https://fuelwired.com/about.html</loc><lastmod>2026-09-26</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
-  <url><loc>https://fuelwired.com/leadership-changes.html</loc><lastmod>2026-09-26</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://fuelwired.com/feed.xml</loc><lastmod>2026-09-26</lastmod><changefreq>daily</changefreq><priority>0.3</priority></url>
+  <url><loc>https://fuelwired.com/</loc><lastmod>2026-09-27</lastmod><changefreq>daily</changefreq><priority>1.0</priority></url>
+  <url><loc>https://fuelwired.com/about.html</loc><lastmod>2026-09-27</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
+  <url><loc>https://fuelwired.com/leadership-changes.html</loc><lastmod>2026-09-27</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://fuelwired.com/feed.xml</loc><lastmod>2026-09-27</lastmod><changefreq>daily</changefreq><priority>0.3</priority></url>
+  <url><loc>https://fuelwired.com/article-eu-may-delay-methane-rules-for-a-year.html</loc><lastmod>2026-09-27</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
+  <url><loc>https://fuelwired.com/article-global-gas-squeeze-could-last-through-next-summer.html</loc><lastmod>2026-09-26</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
+  <url><loc>https://fuelwired.com/article-brazils-energy-mix-goes-green-even-as-oil-production-climbs.html</loc><lastmod>2026-09-26</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
+  <url><loc>https://fuelwired.com/article-calls-to-overhaul-the-un-security-council-gain-new-momentum.html</loc><lastmod>2026-09-26</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
   <url><loc>https://fuelwired.com/article-iraq-rushes-oil-offers-amid-high-shipping-costs.html</loc><lastmod>2026-09-26</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
+  <url><loc>https://fuelwired.com/article-north-carolina-regulators-reject-duke-energy-gas-power-plant.html</loc><lastmod>2026-09-26</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
   <url><loc>https://fuelwired.com/article-oil-falls-on-signs-of-iran-progress.html</loc><lastmod>2026-09-25</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
   <url><loc>https://fuelwired.com/article-nigeria-joins-iea-as-crude-output-hits-six-year-high.html</loc><lastmod>2026-09-25</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
   <url><loc>https://fuelwired.com/article-trump-advisers-study-impact-of-diesel-export-ban.html</loc><lastmod>2026-09-25</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
@@ -89,9 +94,4 @@
   <url><loc>https://fuelwired.com/article-european-commission-proposes-energy-efficiency-rating-for-data-centers.html</loc><lastmod>2026-09-23</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
   <url><loc>https://fuelwired.com/article-gastech-2026-from-lngs-long-term-outlook-to-future-fuels-and-ai.html</loc><lastmod>2026-09-23</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
   <url><loc>https://fuelwired.com/article-a-critical-week-for-oil.html</loc><lastmod>2026-09-23</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
-  <url><loc>https://fuelwired.com/article-pttep-and-valeura-reach-fid-on-bussabong-gas-project-phase-one.html</loc><lastmod>2026-09-23</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
-  <url><loc>https://fuelwired.com/article-shell-finalises-840m-sale-of-gulf-of-mexico-platform-interests.html</loc><lastmod>2026-09-23</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
-  <url><loc>https://fuelwired.com/article-engineers-india-to-deliver-16b-kenya-refinery.html</loc><lastmod>2026-09-23</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
-  <url><loc>https://fuelwired.com/article-eil-secures-450m-epcm-role-for-dangotes-refinery-in-kenya.html</loc><lastmod>2026-09-23</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
-  <url><loc>https://fuelwired.com/article-totalenergies-to-develop-offshore-gas-field-to-boost-nigeria-lng-supply.html</loc><lastmod>2026-09-23</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
 </urlset>
