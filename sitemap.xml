@@ -1,9 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://fuelwired.com/</loc><lastmod>2026-10-03</lastmod><changefreq>daily</changefreq><priority>1.0</priority></url>
-  <url><loc>https://fuelwired.com/about.html</loc><lastmod>2026-10-03</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
-  <url><loc>https://fuelwired.com/leadership-changes.html</loc><lastmod>2026-10-03</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://fuelwired.com/feed.xml</loc><lastmod>2026-10-03</lastmod><changefreq>daily</changefreq><priority>0.3</priority></url>
+  <url><loc>https://fuelwired.com/</loc><lastmod>2026-10-04</lastmod><changefreq>daily</changefreq><priority>1.0</priority></url>
+  <url><loc>https://fuelwired.com/about.html</loc><lastmod>2026-10-04</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
+  <url><loc>https://fuelwired.com/leadership-changes.html</loc><lastmod>2026-10-04</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://fuelwired.com/feed.xml</loc><lastmod>2026-10-04</lastmod><changefreq>daily</changefreq><priority>0.3</priority></url>
+  <url><loc>https://fuelwired.com/article-uniper-biotrend-plan-to-produce-biogas-in-turkiye-for-europe.html</loc><lastmod>2026-10-04</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
+  <url><loc>https://fuelwired.com/article-could-white-hydrogen-succeed-where-green-hydrogen-stumbled.html</loc><lastmod>2026-10-03</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
+  <url><loc>https://fuelwired.com/article-iran-is-losing-some-of-its-leverage-over-the-strait-of-hormuz.html</loc><lastmod>2026-10-03</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
+  <url><loc>https://fuelwired.com/article-getting-oil-through-hormuz-is-a-risky-job.html</loc><lastmod>2026-10-03</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
+  <url><loc>https://fuelwired.com/article-new-research-strengthens-the-link-between-warming-and-extreme-weather.html</loc><lastmod>2026-10-03</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
+  <url><loc>https://fuelwired.com/article-latin-america-could-double-its-onshore-wind-capacity-by-2035.html</loc><lastmod>2026-10-03</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
   <url><loc>https://fuelwired.com/article-oil-falls-as-g7-taps-emergency-supplies.html</loc><lastmod>2026-10-02</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
   <url><loc>https://fuelwired.com/article-canada-pm-invokes-new-powers-to-fast-track-oil-pipeline.html</loc><lastmod>2026-10-02</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
   <url><loc>https://fuelwired.com/article-trump-says-south-korea-deal-includes-84-billion-us-oil-project.html</loc><lastmod>2026-10-02</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
@@ -88,10 +94,4 @@
   <url><loc>https://fuelwired.com/article-fluor-jgc-jv-receives-ntp-for-lng-canada-phase-two-expansion.html</loc><lastmod>2026-09-30</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
   <url><loc>https://fuelwired.com/article-great-british-energy-opens-its-doors-in-aberdeen.html</loc><lastmod>2026-09-30</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
   <url><loc>https://fuelwired.com/article-russia-extends-diesel-export-ban-through-oct-31.html</loc><lastmod>2026-09-30</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
-  <url><loc>https://fuelwired.com/article-slb-onesubsea-wins-rovuma-lng-subsea-systems-contract.html</loc><lastmod>2026-09-30</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
-  <url><loc>https://fuelwired.com/article-analysts-cut-chinas-q4-crude-import-forecasts-by-400000-bpd.html</loc><lastmod>2026-09-30</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
-  <url><loc>https://fuelwired.com/article-chinas-thermal-coal-prices-surge-to-three-year-high.html</loc><lastmod>2026-09-30</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
-  <url><loc>https://fuelwired.com/article-foreign-investors-pull-32-billion-from-indian-markets-as-oil-rally-returns.html</loc><lastmod>2026-09-30</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
-  <url><loc>https://fuelwired.com/article-india-boosts-middle-east-oil-imports-cuts-russian-flows.html</loc><lastmod>2026-09-30</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
-  <url><loc>https://fuelwired.com/article-jp-morgan-goldman-diverge-on-hormuz-oil-flow-estimates.html</loc><lastmod>2026-09-30</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
 </urlset>
