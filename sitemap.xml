@@ -1,9 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://fuelwired.com/</loc><lastmod>2026-10-10</lastmod><changefreq>daily</changefreq><priority>1.0</priority></url>
-  <url><loc>https://fuelwired.com/about.html</loc><lastmod>2026-10-10</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
-  <url><loc>https://fuelwired.com/leadership-changes.html</loc><lastmod>2026-10-10</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://fuelwired.com/feed.xml</loc><lastmod>2026-10-10</lastmod><changefreq>daily</changefreq><priority>0.3</priority></url>
+  <url><loc>https://fuelwired.com/</loc><lastmod>2026-10-11</lastmod><changefreq>daily</changefreq><priority>1.0</priority></url>
+  <url><loc>https://fuelwired.com/about.html</loc><lastmod>2026-10-11</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
+  <url><loc>https://fuelwired.com/leadership-changes.html</loc><lastmod>2026-10-11</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://fuelwired.com/feed.xml</loc><lastmod>2026-10-11</lastmod><changefreq>daily</changefreq><priority>0.3</priority></url>
+  <url><loc>https://fuelwired.com/article-eni-completes-landmark-installation-for-liverpool-bay-ccs.html</loc><lastmod>2026-10-11</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
+  <url><loc>https://fuelwired.com/article-tanker-rates-soar-to-record-as-oil-crisis-becomes-shipping-crisis.html</loc><lastmod>2026-10-10</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
+  <url><loc>https://fuelwired.com/article-emergency-oil-releases-risk-draining-the-worlds-last-supply-cushion.html</loc><lastmod>2026-10-10</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
+  <url><loc>https://fuelwired.com/article-pemex-needs-nearly-110-billion-to-hit-mexicos-output-targets.html</loc><lastmod>2026-10-10</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
+  <url><loc>https://fuelwired.com/article-southeast-asia-needs-more-power-but-its-weak-grid-could-be-a-problem.html</loc><lastmod>2026-10-10</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
+  <url><loc>https://fuelwired.com/article-russias-oil-product-exports-rise.html</loc><lastmod>2026-10-10</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
+  <url><loc>https://fuelwired.com/article-the-iran-war-is-fueling-a-boom-in-clean-energy.html</loc><lastmod>2026-10-10</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
   <url><loc>https://fuelwired.com/article-oil-advances-amid-war-and-hurricane-risks.html</loc><lastmod>2026-10-09</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
   <url><loc>https://fuelwired.com/article-australia-to-release-final-plan-to-keep-more-lng-at-home.html</loc><lastmod>2026-10-09</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
   <url><loc>https://fuelwired.com/article-why-record-crude-output-cant-solve-americas-diesel-crisis.html</loc><lastmod>2026-10-09</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
@@ -87,11 +94,4 @@
   <url><loc>https://fuelwired.com/article-chevron-to-sell-hess-midstream-stake-and-dj-basin-assets.html</loc><lastmod>2026-10-07</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
   <url><loc>https://fuelwired.com/article-rubio-warns-russia-and-china-are-already-moving-in-the-arctic.html</loc><lastmod>2026-10-07</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
   <url><loc>https://fuelwired.com/article-iea-discusses-g7s-100-million-barrel-oil-and-diesel-release.html</loc><lastmod>2026-10-07</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
-  <url><loc>https://fuelwired.com/article-oneok-closes-443bn-acquisition-of-brazos-permian-assets.html</loc><lastmod>2026-10-07</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
-  <url><loc>https://fuelwired.com/article-norway-plans-to-tap-637-billion-from-its-oil-fund-in-2027.html</loc><lastmod>2026-10-07</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
-  <url><loc>https://fuelwired.com/article-shell-expects-strong-trading-results-for-q3.html</loc><lastmod>2026-10-07</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
-  <url><loc>https://fuelwired.com/article-shells-refining-margin-jumps-75-as-fuel-supplies-dry-up.html</loc><lastmod>2026-10-07</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
-  <url><loc>https://fuelwired.com/article-europes-fuel-squeeze-is-turning-into-a-q3-windfall-for-equinor.html</loc><lastmod>2026-10-07</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
-  <url><loc>https://fuelwired.com/article-qatarenergy-secures-3-billion-loan-from-chinese-banks-as-lng-exports-stall.html</loc><lastmod>2026-10-07</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
-  <url><loc>https://fuelwired.com/article-australias-high-court-blocks-major-coal-mine-expansion-over-emissions.html</loc><lastmod>2026-10-07</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
 </urlset>
