@@ -1,9 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://fuelwired.com/</loc><lastmod>2026-10-17</lastmod><changefreq>daily</changefreq><priority>1.0</priority></url>
-  <url><loc>https://fuelwired.com/about.html</loc><lastmod>2026-10-17</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
-  <url><loc>https://fuelwired.com/leadership-changes.html</loc><lastmod>2026-10-17</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://fuelwired.com/feed.xml</loc><lastmod>2026-10-17</lastmod><changefreq>daily</changefreq><priority>0.3</priority></url>
+  <url><loc>https://fuelwired.com/</loc><lastmod>2026-10-18</lastmod><changefreq>daily</changefreq><priority>1.0</priority></url>
+  <url><loc>https://fuelwired.com/about.html</loc><lastmod>2026-10-18</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
+  <url><loc>https://fuelwired.com/leadership-changes.html</loc><lastmod>2026-10-18</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://fuelwired.com/feed.xml</loc><lastmod>2026-10-18</lastmod><changefreq>daily</changefreq><priority>0.3</priority></url>
+  <url><loc>https://fuelwired.com/article-oil-prices-stay-high-as-war-keeps-supply-tight-into-2027.html</loc><lastmod>2026-10-17</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
+  <url><loc>https://fuelwired.com/article-middle-east-chemicals-keep-their-cost-edge-despite-hormuz-crisis.html</loc><lastmod>2026-10-17</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
+  <url><loc>https://fuelwired.com/article-texas-researchers-say-permian-wastewater-could-cool-ai-data-centers.html</loc><lastmod>2026-10-17</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
+  <url><loc>https://fuelwired.com/article-europe-braces-for-a-winter-energy-crisis-as-gas-reserves-run-low.html</loc><lastmod>2026-10-17</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
+  <url><loc>https://fuelwired.com/article-opecs-smallest-member-rewrites-oil-law.html</loc><lastmod>2026-10-17</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
+  <url><loc>https://fuelwired.com/article-bolivias-energy-crisis-deepens-as-natural-gas-reserves-run-dry.html</loc><lastmod>2026-10-17</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
   <url><loc>https://fuelwired.com/article-brent-oil-hits-110-as-supply-risks-mount.html</loc><lastmod>2026-10-16</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
   <url><loc>https://fuelwired.com/article-global-energy-import-dependence-set-to-peak-by-2034-rystad-says.html</loc><lastmod>2026-10-16</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
   <url><loc>https://fuelwired.com/article-tgs-secures-rights-to-reprocess-jaan-3d-survey-in-guinea-bissau.html</loc><lastmod>2026-10-16</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
@@ -88,10 +94,4 @@
   <url><loc>https://fuelwired.com/article-qatarenergy-ceo-says-we-need-to-keep-energy-above-politics.html</loc><lastmod>2026-10-14</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
   <url><loc>https://fuelwired.com/article-tc-energy-closes-first-nations-investment-deal-for-cgl-pipeline.html</loc><lastmod>2026-10-14</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
   <url><loc>https://fuelwired.com/article-engie-and-cma-cgm-to-develop-biomethane-plant-in-le-havre-france.html</loc><lastmod>2026-10-14</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
-  <url><loc>https://fuelwired.com/article-shell-agrees-to-divest-nigeria-gas-distribution-arm-to-vaaris-energy.html</loc><lastmod>2026-10-14</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
-  <url><loc>https://fuelwired.com/article-aramco-hq-hit-as-houthis-escalate-attacks.html</loc><lastmod>2026-10-14</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
-  <url><loc>https://fuelwired.com/article-aramcos-new-chinese-jv-refinery-gets-first-saudi-crude-cargo.html</loc><lastmod>2026-10-14</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
-  <url><loc>https://fuelwired.com/article-oman-overtakes-us-as-indias-top-lng-supplier-in-september.html</loc><lastmod>2026-10-14</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
-  <url><loc>https://fuelwired.com/article-trump-announces-massive-greenland-oil-exploration-plans.html</loc><lastmod>2026-10-14</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
-  <url><loc>https://fuelwired.com/article-saudi-aramco-headquarters-hit-as-houthi-attacks-escalate.html</loc><lastmod>2026-10-14</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
 </urlset>
