@@ -1,9 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://fuelwired.com/</loc><lastmod>2026-10-24</lastmod><changefreq>daily</changefreq><priority>1.0</priority></url>
-  <url><loc>https://fuelwired.com/about.html</loc><lastmod>2026-10-24</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
-  <url><loc>https://fuelwired.com/leadership-changes.html</loc><lastmod>2026-10-24</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://fuelwired.com/feed.xml</loc><lastmod>2026-10-24</lastmod><changefreq>daily</changefreq><priority>0.3</priority></url>
+  <url><loc>https://fuelwired.com/</loc><lastmod>2026-10-25</lastmod><changefreq>daily</changefreq><priority>1.0</priority></url>
+  <url><loc>https://fuelwired.com/about.html</loc><lastmod>2026-10-25</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
+  <url><loc>https://fuelwired.com/leadership-changes.html</loc><lastmod>2026-10-25</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://fuelwired.com/feed.xml</loc><lastmod>2026-10-25</lastmod><changefreq>daily</changefreq><priority>0.3</priority></url>
+  <url><loc>https://fuelwired.com/article-iberdrola-secures-new-eib-loan-for-brazil-grid-upgrades.html</loc><lastmod>2026-10-25</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
+  <url><loc>https://fuelwired.com/article-record-tanker-rates-cripple-us-crude-oil-flows-to-asia.html</loc><lastmod>2026-10-24</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
+  <url><loc>https://fuelwired.com/article-fuel-oil-becomes-asias-next-cost-shock.html</loc><lastmod>2026-10-24</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
+  <url><loc>https://fuelwired.com/article-syrias-energy-comeback-could-reshape-middle-east-oil-and-gas.html</loc><lastmod>2026-10-24</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
+  <url><loc>https://fuelwired.com/article-can-undersea-volcanoes-power-cities-a-seattle-startup-just-took-the-first-step.html</loc><lastmod>2026-10-24</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
+  <url><loc>https://fuelwired.com/article-germany-wants-to-stop-more-oil-refinery-closures.html</loc><lastmod>2026-10-24</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
+  <url><loc>https://fuelwired.com/article-trump-targets-62-billion-offshore-wind-project-nearing-completion.html</loc><lastmod>2026-10-24</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
   <url><loc>https://fuelwired.com/article-brent-tops-116-as-middle-east-risks-grow.html</loc><lastmod>2026-10-23</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
   <url><loc>https://fuelwired.com/article-physical-oil-prices-drop-in-mideast.html</loc><lastmod>2026-10-23</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
   <url><loc>https://fuelwired.com/article-trumps-reverse-nixon-strategy-bring-russia-in-shut-china-out.html</loc><lastmod>2026-10-23</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
@@ -87,11 +94,4 @@
   <url><loc>https://fuelwired.com/article-saudi-crude-exports-hit-five-month-high-as-production-falls-to-record-low.html</loc><lastmod>2026-10-21</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
   <url><loc>https://fuelwired.com/article-why-are-rare-earth-stocks-falling-when-prices-keep-rising.html</loc><lastmod>2026-10-21</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
   <url><loc>https://fuelwired.com/article-midterms-could-swing-on-diesel.html</loc><lastmod>2026-10-21</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
-  <url><loc>https://fuelwired.com/article-woodside-posts-higher-quarterly-revenue.html</loc><lastmod>2026-10-21</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
-  <url><loc>https://fuelwired.com/article-uk-greenlights-3b-jackdaw-gas-project.html</loc><lastmod>2026-10-21</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
-  <url><loc>https://fuelwired.com/article-uk-government-approves-jackdaw-gas-field-in-north-sea.html</loc><lastmod>2026-10-21</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
-  <url><loc>https://fuelwired.com/article-eni-initiates-start-up-of-meleiha-phase-two-gas-project-in-egypt.html</loc><lastmod>2026-10-21</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
-  <url><loc>https://fuelwired.com/article-iran-intensifies-strikes-on-ships.html</loc><lastmod>2026-10-21</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
-  <url><loc>https://fuelwired.com/article-gulf-keystone-and-shamaran-agree-to-601m-all-share-merger.html</loc><lastmod>2026-10-21</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
-  <url><loc>https://fuelwired.com/article-russia-to-send-first-diesel-tanker-to-us-on-thursday.html</loc><lastmod>2026-10-21</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
 </urlset>
