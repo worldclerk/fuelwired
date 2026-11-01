@@ -1,10 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://fuelwired.com/</loc><lastmod>2026-10-31</lastmod><changefreq>daily</changefreq><priority>1.0</priority></url>
-  <url><loc>https://fuelwired.com/about.html</loc><lastmod>2026-10-31</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
-  <url><loc>https://fuelwired.com/leadership-changes.html</loc><lastmod>2026-10-31</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://fuelwired.com/feed.xml</loc><lastmod>2026-10-31</lastmod><changefreq>daily</changefreq><priority>0.3</priority></url>
+  <url><loc>https://fuelwired.com/</loc><lastmod>2026-11-01</lastmod><changefreq>daily</changefreq><priority>1.0</priority></url>
+  <url><loc>https://fuelwired.com/about.html</loc><lastmod>2026-11-01</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
+  <url><loc>https://fuelwired.com/leadership-changes.html</loc><lastmod>2026-11-01</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://fuelwired.com/feed.xml</loc><lastmod>2026-11-01</lastmod><changefreq>daily</changefreq><priority>0.3</priority></url>
+  <url><loc>https://fuelwired.com/article-totalenergies-farms-out-nigerian-exploration-block.html</loc><lastmod>2026-11-01</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
+  <url><loc>https://fuelwired.com/article-chevron-raises-exploration-spending-by-50.html</loc><lastmod>2026-10-31</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
+  <url><loc>https://fuelwired.com/article-us-intelligence-china-could-put-laser-weapons-in-space-by-2030.html</loc><lastmod>2026-10-31</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
+  <url><loc>https://fuelwired.com/article-jackdaw-approval-sparks-fierce-debate-over-britains-energy-future.html</loc><lastmod>2026-10-31</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
+  <url><loc>https://fuelwired.com/article-darpa-backs-project-to-measure-ai-energy-use-at-every-stage-of-the-workflow.html</loc><lastmod>2026-10-31</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
   <url><loc>https://fuelwired.com/article-big-oil-scores-56b-windfall-on-spiking-fuel-prices.html</loc><lastmod>2026-10-31</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
+  <url><loc>https://fuelwired.com/article-senegals-ambitious-plan-to-slash-electricity-costs-and-boost-energy-security.html</loc><lastmod>2026-10-31</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
   <url><loc>https://fuelwired.com/article-oil-creeps-higher-amid-uncertainty-over-usa-strategy-in-iran.html</loc><lastmod>2026-10-30</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
   <url><loc>https://fuelwired.com/article-exxon-plans-100b-in-capex-through-2030-ceo-tells-cnbc.html</loc><lastmod>2026-10-30</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
   <url><loc>https://fuelwired.com/article-europe-is-now-seriously-rethinking-its-oil-refinery-phase-down.html</loc><lastmod>2026-10-30</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
@@ -88,10 +94,4 @@
   <url><loc>https://fuelwired.com/article-eni-awards-key-contracts-for-cronos-gas-project.html</loc><lastmod>2026-10-28</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
   <url><loc>https://fuelwired.com/article-snoc-completes-phase-1-of-hedebah-gas-condensate-field-in-uae.html</loc><lastmod>2026-10-28</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
   <url><loc>https://fuelwired.com/article-anybotics-ships-explosion-proof-robots-for-oil-and-gas-inspections.html</loc><lastmod>2026-10-28</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
-  <url><loc>https://fuelwired.com/article-iran-cracks-down-on-sinokor-tankers.html</loc><lastmod>2026-10-28</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
-  <url><loc>https://fuelwired.com/article-qatarenergy-extends-lng-force-majeure-to-end-of-2026.html</loc><lastmod>2026-10-28</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
-  <url><loc>https://fuelwired.com/article-us-lawmakers-warn-banks-against-trumps-russian-diesel-deal.html</loc><lastmod>2026-10-28</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
-  <url><loc>https://fuelwired.com/article-bahri-profit-hits-136-billion-as-the-world-scrambles-for-tankers.html</loc><lastmod>2026-10-28</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
-  <url><loc>https://fuelwired.com/article-us-epa-proposes-changes-to-oil-and-gas-emissions-regulations.html</loc><lastmod>2026-10-28</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
-  <url><loc>https://fuelwired.com/article-latham-watkins-tops-oil-and-gas-ma-legal-advisory-in-q1-q3-2026.html</loc><lastmod>2026-10-28</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
 </urlset>
