@@ -1,10 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://fuelwired.com/</loc><lastmod>2026-11-07</lastmod><changefreq>daily</changefreq><priority>1.0</priority></url>
-  <url><loc>https://fuelwired.com/about.html</loc><lastmod>2026-11-07</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
-  <url><loc>https://fuelwired.com/leadership-changes.html</loc><lastmod>2026-11-07</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://fuelwired.com/feed.xml</loc><lastmod>2026-11-07</lastmod><changefreq>daily</changefreq><priority>0.3</priority></url>
+  <url><loc>https://fuelwired.com/</loc><lastmod>2026-11-08</lastmod><changefreq>daily</changefreq><priority>1.0</priority></url>
+  <url><loc>https://fuelwired.com/about.html</loc><lastmod>2026-11-08</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
+  <url><loc>https://fuelwired.com/leadership-changes.html</loc><lastmod>2026-11-08</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://fuelwired.com/feed.xml</loc><lastmod>2026-11-08</lastmod><changefreq>daily</changefreq><priority>0.3</priority></url>
+  <url><loc>https://fuelwired.com/article-south-bow-q3-profit-beats-estimates.html</loc><lastmod>2026-11-08</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
+  <url><loc>https://fuelwired.com/article-wars-may-spur-faster-electrification.html</loc><lastmod>2026-11-07</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
+  <url><loc>https://fuelwired.com/article-the-us-has-50-billion-for-nuclear-waste-and-nowhere-to-put-it.html</loc><lastmod>2026-11-07</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
+  <url><loc>https://fuelwired.com/article-egypt-eyes-billions-in-new-investment-to-revive-oil-and-gas-production.html</loc><lastmod>2026-11-07</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
+  <url><loc>https://fuelwired.com/article-trump-backed-trade-corridor-advances-despite-geopolitical-resistance.html</loc><lastmod>2026-11-07</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
   <url><loc>https://fuelwired.com/article-survey-shows-opec-output-neared-pre-war-levels.html</loc><lastmod>2026-11-07</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
+  <url><loc>https://fuelwired.com/article-americas-hydrogen-revolution-stalls-amid-funding-cuts-and-weak-demand.html</loc><lastmod>2026-11-07</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
   <url><loc>https://fuelwired.com/article-oil-posts-biggest-weekly-drop-since-2022.html</loc><lastmod>2026-11-06</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
   <url><loc>https://fuelwired.com/article-uk-cabinet-in-push-to-approve-drilling-at-rosebank.html</loc><lastmod>2026-11-06</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
   <url><loc>https://fuelwired.com/article-wall-streets-energy-transition-funds-are-packed-with-natural-gas.html</loc><lastmod>2026-11-06</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
@@ -88,10 +94,4 @@
   <url><loc>https://fuelwired.com/article-oil-climbs-amid-us-midterm-results-and-middle-east-tensions.html</loc><lastmod>2026-11-04</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
   <url><loc>https://fuelwired.com/article-energy-transfer-sanctions-16bn-south-mississippi-pipeline-project.html</loc><lastmod>2026-11-04</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
   <url><loc>https://fuelwired.com/article-uae-controlled-moeve-sells-algerian-upstream-assets.html</loc><lastmod>2026-11-04</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
-  <url><loc>https://fuelwired.com/article-lone-star-goes-blue.html</loc><lastmod>2026-11-04</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
-  <url><loc>https://fuelwired.com/article-democrats-win-texas-oil-regulator-seat-for-first-time-since-1990.html</loc><lastmod>2026-11-04</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
-  <url><loc>https://fuelwired.com/article-european-gas-prices-fall-2-as-traders-wait-on-trumps-next-move-in-iran.html</loc><lastmod>2026-11-04</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
-  <url><loc>https://fuelwired.com/article-cvr-energy-to-acquire-two-us-refineries-from-marathon-for-42bn.html</loc><lastmod>2026-11-04</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
-  <url><loc>https://fuelwired.com/article-nigerias-oil-and-gas-output-rises-to-304-million-boepd.html</loc><lastmod>2026-11-04</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
-  <url><loc>https://fuelwired.com/article-renewables-stocks-soar-as-democrats-sweep-us-congress.html</loc><lastmod>2026-11-04</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
 </urlset>
