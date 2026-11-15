@@ -1,10 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://fuelwired.com/</loc><lastmod>2026-11-14</lastmod><changefreq>daily</changefreq><priority>1.0</priority></url>
-  <url><loc>https://fuelwired.com/about.html</loc><lastmod>2026-11-14</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
-  <url><loc>https://fuelwired.com/leadership-changes.html</loc><lastmod>2026-11-14</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://fuelwired.com/feed.xml</loc><lastmod>2026-11-14</lastmod><changefreq>daily</changefreq><priority>0.3</priority></url>
+  <url><loc>https://fuelwired.com/</loc><lastmod>2026-11-15</lastmod><changefreq>daily</changefreq><priority>1.0</priority></url>
+  <url><loc>https://fuelwired.com/about.html</loc><lastmod>2026-11-15</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
+  <url><loc>https://fuelwired.com/leadership-changes.html</loc><lastmod>2026-11-15</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://fuelwired.com/feed.xml</loc><lastmod>2026-11-15</lastmod><changefreq>daily</changefreq><priority>0.3</priority></url>
+  <url><loc>https://fuelwired.com/article-repsol-approves-150-mw-tarragona-green-hydrogen-project.html</loc><lastmod>2026-11-15</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
+  <url><loc>https://fuelwired.com/article-electrifying-ambitions-meet-tough-reality-in-europe.html</loc><lastmod>2026-11-14</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
+  <url><loc>https://fuelwired.com/article-nvidia-without-huang-what-a-pause-in-ai-deals-means-for-metals.html</loc><lastmod>2026-11-14</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
+  <url><loc>https://fuelwired.com/article-iran-war-accelerates-southeast-asias-renewable-energy-push.html</loc><lastmod>2026-11-14</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
+  <url><loc>https://fuelwired.com/article-singapore-makes-a-65-billion-bet-on-the-future-of-gold.html</loc><lastmod>2026-11-14</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
   <url><loc>https://fuelwired.com/article-mozambique-south-africa-lng-terminal-deal-seen-by-january.html</loc><lastmod>2026-11-14</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
+  <url><loc>https://fuelwired.com/article-americas-offshore-wind-industry-is-growing-despite-trumps-crackdown.html</loc><lastmod>2026-11-14</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
   <url><loc>https://fuelwired.com/article-crude-fluctuates-as-iran-tensions-persist.html</loc><lastmod>2026-11-13</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
   <url><loc>https://fuelwired.com/article-benin-ships-1st-crude-cargo-for-decades-from-revived-oil-field.html</loc><lastmod>2026-11-13</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
   <url><loc>https://fuelwired.com/article-iran-braces-for-a-budget-without-oil-revenue.html</loc><lastmod>2026-11-13</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
@@ -88,10 +94,4 @@
   <url><loc>https://fuelwired.com/article-us-doe-approves-480m-loan-for-arena-energys-project-elkhorn.html</loc><lastmod>2026-11-11</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
   <url><loc>https://fuelwired.com/article-india-approves-73-billion-high-capacity-power-link-to-back-renewables.html</loc><lastmod>2026-11-11</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
   <url><loc>https://fuelwired.com/article-ukrainian-drone-attack-sparks-fire-at-russias-key-baltic-oil-export-hub.html</loc><lastmod>2026-11-11</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
-  <url><loc>https://fuelwired.com/article-diamondback-kkr-to-buy-five-points-70-stake-in-deep-blue.html</loc><lastmod>2026-11-11</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
-  <url><loc>https://fuelwired.com/article-india-eyes-50-wind-power-capacity-boost-without-acquiring-more-land.html</loc><lastmod>2026-11-11</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
-  <url><loc>https://fuelwired.com/article-rwe-and-kkr-seal-16-billion-uk-offshore-wind-mega-deal.html</loc><lastmod>2026-11-11</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
-  <url><loc>https://fuelwired.com/article-siemens-energy-more-than-triples-dividend-after-record-year.html</loc><lastmod>2026-11-11</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
-  <url><loc>https://fuelwired.com/article-saudi-arabia-and-turkey-sign-major-3-gw-wind-power-deal.html</loc><lastmod>2026-11-11</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
-  <url><loc>https://fuelwired.com/article-polands-orlen-becomes-first-buyer-to-cancel-long-term-qatar-lng-deal.html</loc><lastmod>2026-11-11</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
 </urlset>
