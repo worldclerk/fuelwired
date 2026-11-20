@@ -1,9 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://fuelwired.com/</loc><lastmod>2026-11-19</lastmod><changefreq>daily</changefreq><priority>1.0</priority></url>
-  <url><loc>https://fuelwired.com/about.html</loc><lastmod>2026-11-19</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
-  <url><loc>https://fuelwired.com/leadership-changes.html</loc><lastmod>2026-11-19</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://fuelwired.com/feed.xml</loc><lastmod>2026-11-19</lastmod><changefreq>daily</changefreq><priority>0.3</priority></url>
+  <url><loc>https://fuelwired.com/</loc><lastmod>2026-11-20</lastmod><changefreq>daily</changefreq><priority>1.0</priority></url>
+  <url><loc>https://fuelwired.com/about.html</loc><lastmod>2026-11-20</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
+  <url><loc>https://fuelwired.com/leadership-changes.html</loc><lastmod>2026-11-20</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://fuelwired.com/feed.xml</loc><lastmod>2026-11-20</lastmod><changefreq>daily</changefreq><priority>0.3</priority></url>
+  <url><loc>https://fuelwired.com/article-usa-crude-oil-stocks-rise-over-3-million-barrels-wow.html</loc><lastmod>2026-11-20</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
+  <url><loc>https://fuelwired.com/article-usa-sour-crudes-war-premium-vanishes.html</loc><lastmod>2026-11-20</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
+  <url><loc>https://fuelwired.com/article-energy-transfer-seals-vaquero-acquisition.html</loc><lastmod>2026-11-20</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
+  <url><loc>https://fuelwired.com/article-usa-eia-sees-henry-hub-natgas-price-dropping-in-2026-2027.html</loc><lastmod>2026-11-20</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
+  <url><loc>https://fuelwired.com/article-orlen-pens-agreements-to-strengthen-gas-supply-in-eastern-europe.html</loc><lastmod>2026-11-20</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
+  <url><loc>https://fuelwired.com/article-shenzhen-summit-fuel-pledge-offers-little-near-term-relief.html</loc><lastmod>2026-11-20</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
+  <url><loc>https://fuelwired.com/article-chinas-oil-imports-from-persian-gulf-jump-to-wartime-high.html</loc><lastmod>2026-11-20</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
+  <url><loc>https://fuelwired.com/article-historic-superpower-summit-delivers-big-promises-but-few-breakthroughs.html</loc><lastmod>2026-11-20</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
+  <url><loc>https://fuelwired.com/article-equinor-says-cyberattack-stopped.html</loc><lastmod>2026-11-20</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
+  <url><loc>https://fuelwired.com/article-europe-has-already-drained-11-of-its-summer-gas-injections.html</loc><lastmod>2026-11-20</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
+  <url><loc>https://fuelwired.com/article-indias-lpg-consumption-hits-8-month-high-as-supply-rebounds.html</loc><lastmod>2026-11-20</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
+  <url><loc>https://fuelwired.com/article-gulf-sees-iran-oil-movement-as-us-widens-blockade.html</loc><lastmod>2026-11-20</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
+  <url><loc>https://fuelwired.com/article-trumps-ukraine-energy-truce-unravels-as-russian-missiles-hit-kyiv.html</loc><lastmod>2026-11-20</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
+  <url><loc>https://fuelwired.com/article-iraqs-oil-crackdown-sparks-new-showdown-with-kurdistan.html</loc><lastmod>2026-11-20</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
+  <url><loc>https://fuelwired.com/article-wti-crude-sinks-more-than-5-as-global-oil-glut-fears-grow.html</loc><lastmod>2026-11-20</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
+  <url><loc>https://fuelwired.com/article-iran-steps-up-hormuz-tanker-attacks-as-oil-prices-slide.html</loc><lastmod>2026-11-20</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
+  <url><loc>https://fuelwired.com/article-iran-refuses-nuclear-inspections-as-us-military-threats-mount.html</loc><lastmod>2026-11-20</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
+  <url><loc>https://fuelwired.com/article-chinas-solar-exports-surge-21-as-us-tariff-deadline-looms.html</loc><lastmod>2026-11-20</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
+  <url><loc>https://fuelwired.com/article-iran-moves-to-restart-oil-exports-despite-us-naval-blockade.html</loc><lastmod>2026-11-20</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
+  <url><loc>https://fuelwired.com/article-senate-passes-sweeping-energy-permitting-reform-bill-in-62-33-vote.html</loc><lastmod>2026-11-20</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
+  <url><loc>https://fuelwired.com/article-oil-prices-rebound-as-houthi-attacks-reignite-middle-east-supply-fears.html</loc><lastmod>2026-11-19</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
+  <url><loc>https://fuelwired.com/article-oil-prices-swing-on-middle-east-uncertainty.html</loc><lastmod>2026-11-19</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
+  <url><loc>https://fuelwired.com/article-tpao-in-talks-for-1b-loan.html</loc><lastmod>2026-11-19</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
+  <url><loc>https://fuelwired.com/article-canada-builds-an-energy-exit-from-the-us.html</loc><lastmod>2026-11-19</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
+  <url><loc>https://fuelwired.com/article-us-oil-and-gas-deal-boom-lures-bmo-back-into-the-market.html</loc><lastmod>2026-11-19</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
+  <url><loc>https://fuelwired.com/article-sse-nearly-doubles-core-shareholder-metric.html</loc><lastmod>2026-11-19</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
   <url><loc>https://fuelwired.com/article-another-adnoc-vessel-attacked.html</loc><lastmod>2026-11-19</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
   <url><loc>https://fuelwired.com/article-saipem-posts-nearly-50-percent-yoy-increase-in-bookings.html</loc><lastmod>2026-11-19</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
   <url><loc>https://fuelwired.com/article-usa-china-russia-agree-to-increase-supply-of-global-fuels.html</loc><lastmod>2026-11-19</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
@@ -68,30 +94,4 @@
   <url><loc>https://fuelwired.com/article-dems-plan-probes-of-trumps-100b-venezuela-oil-deal.html</loc><lastmod>2026-11-17</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
   <url><loc>https://fuelwired.com/article-opec-iea-ief-meet-for-crucial-dialogue-on-maritime-flows.html</loc><lastmod>2026-11-17</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
   <url><loc>https://fuelwired.com/article-shell-begins-gas-production-from-rosmari-and-marjoram-fields.html</loc><lastmod>2026-11-17</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
-  <url><loc>https://fuelwired.com/article-diamondback-to-acquire-double-eagle-assets-in-midland-basin.html</loc><lastmod>2026-11-17</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
-  <url><loc>https://fuelwired.com/article-canada-invests-140mm-in-woodfibre-lng.html</loc><lastmod>2026-11-17</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
-  <url><loc>https://fuelwired.com/article-bp-bolsters-board.html</loc><lastmod>2026-11-17</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
-  <url><loc>https://fuelwired.com/article-reliance-bets-16-billion-on-indias-biogas-boom.html</loc><lastmod>2026-11-17</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
-  <url><loc>https://fuelwired.com/article-brent-stuck-near-93-as-hormuz-tanker-attacks-offset-gulf-export-surge.html</loc><lastmod>2026-11-17</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
-  <url><loc>https://fuelwired.com/article-guyana-to-reach-11-mmbpd-of-oil-production-as-uaru-starts-up.html</loc><lastmod>2026-11-17</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
-  <url><loc>https://fuelwired.com/article-oil-prices-fall-as-supply-surplus-forecasts-outweigh-gulf-tensions.html</loc><lastmod>2026-11-17</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
-  <url><loc>https://fuelwired.com/article-exxonmobil-begins-oil-production-at-uaru-in-guyanas-stabroek-block.html</loc><lastmod>2026-11-17</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
-  <url><loc>https://fuelwired.com/article-asia-to-dominate-global-pta-capacity-growth-through-2030.html</loc><lastmod>2026-11-17</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
-  <url><loc>https://fuelwired.com/article-kazakhstan-unveils-85-million-oil-and-gas-manufacturing-push.html</loc><lastmod>2026-11-17</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
-  <url><loc>https://fuelwired.com/article-diamondback-to-acquire-double-eagle-midland-basin-assets.html</loc><lastmod>2026-11-17</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
-  <url><loc>https://fuelwired.com/article-kenya-signs-nearly-700mm-deal-for-lng-power-plant.html</loc><lastmod>2026-11-17</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
-  <url><loc>https://fuelwired.com/article-us-opens-new-front-in-campaign-to-cut-off-irans-supply-routes.html</loc><lastmod>2026-11-17</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
-  <url><loc>https://fuelwired.com/article-ttf-gas-bounces-back-to-86-euros-as-hormuz-risks-resurface.html</loc><lastmod>2026-11-17</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
-  <url><loc>https://fuelwired.com/article-malaysia-signs-first-critical-minerals-pact-with-france.html</loc><lastmod>2026-11-17</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
-  <url><loc>https://fuelwired.com/article-uk-pushes-for-global-levies-on-polluting-industries.html</loc><lastmod>2026-11-17</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
-  <url><loc>https://fuelwired.com/article-india-gives-green-light-to-commercial-sustainable-jet-fuel-production.html</loc><lastmod>2026-11-17</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
-  <url><loc>https://fuelwired.com/article-iran-and-oman-hold-talks-on-strait-of-hormuz-security-as-tanker-attacks-surge.html</loc><lastmod>2026-11-17</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
-  <url><loc>https://fuelwired.com/article-japan-proposes-an-asian-iea-to-protect-oil-supplies.html</loc><lastmod>2026-11-17</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
-  <url><loc>https://fuelwired.com/article-americas-biggest-grid-operator-races-to-keep-up-with-data-center-boom.html</loc><lastmod>2026-11-17</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
-  <url><loc>https://fuelwired.com/article-oil-prices-slide-as-global-glut-fears-eclipse-hormuz-attacks.html</loc><lastmod>2026-11-17</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
-  <url><loc>https://fuelwired.com/article-oil-retreats-as-traders-weigh-supply-glut.html</loc><lastmod>2026-11-16</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
-  <url><loc>https://fuelwired.com/article-the-army-just-did-something-extraordinary-to-break-chinas-rare-earth-monopoly.html</loc><lastmod>2026-11-16</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
-  <url><loc>https://fuelwired.com/article-sunday-times-says-burnham-faces-rebellion-over-rosebank.html</loc><lastmod>2026-11-16</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
-  <url><loc>https://fuelwired.com/article-why-iraq-just-fast-tracked-chevrons-takeover-of-a-14-billion-barrel-supergiant.html</loc><lastmod>2026-11-16</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
-  <url><loc>https://fuelwired.com/article-airlines-face-fuel-crisis-as-price-hedges-expire.html</loc><lastmod>2026-11-16</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
 </urlset>
