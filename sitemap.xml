@@ -1,16 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://fuelwired.com/</loc><lastmod>2026-11-27</lastmod><changefreq>daily</changefreq><priority>1.0</priority></url>
-  <url><loc>https://fuelwired.com/about.html</loc><lastmod>2026-11-27</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
-  <url><loc>https://fuelwired.com/leadership-changes.html</loc><lastmod>2026-11-27</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://fuelwired.com/feed.xml</loc><lastmod>2026-11-27</lastmod><changefreq>daily</changefreq><priority>0.3</priority></url>
+  <url><loc>https://fuelwired.com/</loc><lastmod>2026-11-28</lastmod><changefreq>daily</changefreq><priority>1.0</priority></url>
+  <url><loc>https://fuelwired.com/about.html</loc><lastmod>2026-11-28</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
+  <url><loc>https://fuelwired.com/leadership-changes.html</loc><lastmod>2026-11-28</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://fuelwired.com/feed.xml</loc><lastmod>2026-11-28</lastmod><changefreq>daily</changefreq><priority>0.3</priority></url>
+  <url><loc>https://fuelwired.com/article-rystad-says-russian-refinery-runs-drop-to-lowest-in-decades.html</loc><lastmod>2026-11-28</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
+  <url><loc>https://fuelwired.com/article-oil-swings-with-rising-me-attacks-in-focus.html</loc><lastmod>2026-11-27</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
+  <url><loc>https://fuelwired.com/article-alberta-raises-projected-surplus-to-6b-as-oil-surges.html</loc><lastmod>2026-11-27</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
+  <url><loc>https://fuelwired.com/article-wasted-wind-and-solar-power-could-run-factories-and-data-centers.html</loc><lastmod>2026-11-27</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
   <url><loc>https://fuelwired.com/article-usa-crude-oil-stocks-rise-week-on-week.html</loc><lastmod>2026-11-27</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
   <url><loc>https://fuelwired.com/article-iran-turkey-extend-natural-gas-deal.html</loc><lastmod>2026-11-27</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
   <url><loc>https://fuelwired.com/article-eni-petronas-receive-indonesian-approval-for-geliga-gas-project.html</loc><lastmod>2026-11-27</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
+  <url><loc>https://fuelwired.com/article-georgia-voters-to-decide-fate-of-17-billion-data-center-megaproject.html</loc><lastmod>2026-11-27</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
   <url><loc>https://fuelwired.com/article-forte-reports-up-to-58bbbl-of-prospective-oil-at-harrier-alaska.html</loc><lastmod>2026-11-27</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
   <url><loc>https://fuelwired.com/article-safe-ends-strike-at-reach-subsea.html</loc><lastmod>2026-11-27</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
   <url><loc>https://fuelwired.com/article-saipem-bags-new-middle-east-deals-worth-650mm.html</loc><lastmod>2026-11-27</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
   <url><loc>https://fuelwired.com/article-brent-heads-for-1st-weekly-gain-in-5-weeks.html</loc><lastmod>2026-11-27</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
+  <url><loc>https://fuelwired.com/article-opec-faces-growing-pressure-as-iraq-pushes-for-higher-quota.html</loc><lastmod>2026-11-27</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
+  <url><loc>https://fuelwired.com/article-the-oil-glut-everyone-expected-is-looking-increasingly-elusive.html</loc><lastmod>2026-11-27</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
   <url><loc>https://fuelwired.com/article-soaring-fuel-prices-threaten-to-push-more-airlines-into-bankruptcy.html</loc><lastmod>2026-11-27</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
   <url><loc>https://fuelwired.com/article-oil-surge-pushes-indonesia-to-mull-first-subsidized-fuel-price-hike-in-years.html</loc><lastmod>2026-11-27</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
   <url><loc>https://fuelwired.com/article-cbi-wins-five-year-extension-from-serica-energy-in-uk-north-sea.html</loc><lastmod>2026-11-27</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
@@ -87,11 +94,4 @@
   <url><loc>https://fuelwired.com/article-iran-reports-fresh-tanker-explosions-as-hormuz-attacks-intensify.html</loc><lastmod>2026-11-25</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
   <url><loc>https://fuelwired.com/article-global-lng-supply-crunch-set-to-spill-into-2027.html</loc><lastmod>2026-11-25</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
   <url><loc>https://fuelwired.com/article-goldman-sachs-sees-us-natural-gas-demand-surging-on-data-center-boom.html</loc><lastmod>2026-11-25</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
-  <url><loc>https://fuelwired.com/article-oil-prices-slide-despite-mounting-threats-in-the-strait-of-hormuz.html</loc><lastmod>2026-11-24</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
-  <url><loc>https://fuelwired.com/article-china-goes-on-oil-buying-spree-as-crude-prices-slide.html</loc><lastmod>2026-11-24</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
-  <url><loc>https://fuelwired.com/article-oil-climbs-despite-growing-oversupply-fears.html</loc><lastmod>2026-11-24</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
-  <url><loc>https://fuelwired.com/article-hartree-is-top-supplier-behind-10mm-oil-crypto-coin-mint.html</loc><lastmod>2026-11-24</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
-  <url><loc>https://fuelwired.com/article-ousted-bp-chairman-to-join-aggreko-board.html</loc><lastmod>2026-11-24</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
-  <url><loc>https://fuelwired.com/article-petrobras-lifts-spending-to-122b.html</loc><lastmod>2026-11-24</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
-  <url><loc>https://fuelwired.com/article-opec-at-a-crossroads.html</loc><lastmod>2026-11-24</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
 </urlset>
